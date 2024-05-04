@@ -3,19 +3,21 @@ DigiGreen Manufacturing base (48 h) – GP5
 
 
 ## Programma del corso:
-- [Introduzione e storia](#introduzione-e-storia)
-- [L'interprete Python e l'IDLE](#linterprete-python-e-lidle)
-- [Introduzione alla sintassi](#sintassi
-- )
-- [Tipi di dato semplici]
-- [Cicli Interattivi e Iterativi]
-- [Funzioni, moduli e oggetti]
-- [Strutture dati: list, tuple, set, dictionary]
-- [Gestione delle stringhe, dei file e dell'input da terminale]
-- [Installazione e uso del package manager PIP]
-- [Python come moderno linguaggio di scripting]
+- [Corso\_python\_base](#corso_python_base)
+  - [Programma del corso:](#programma-del-corso)
+    - [Introduzione e Storia](#introduzione-e-storia)
+    - [L'interprete Python e l'IDLE](#linterprete-python-e-lidle)
+    - [Sintassi](#sintassi)
+    - [Tipi di dato semplici](#tipi-di-dato-semplici)
+    - [Cicli Interattivi e Iterativi](#cicli-interattivi-e-iterativi)
+    - [Funzioni, moduli e oggetti](#funzioni-moduli-e-oggetti)
+    - [Strutture dati: list, tuple, set, dictionary](#strutture-dati-list-tuple-set-dictionary)
+    - [Gestione delle stringhe, dei file e dell'input da terminale](#gestione-delle-stringhe-dei-file-e-dellinput-da-terminale)
+    - [Installazione e uso del package manager PIP](#installazione-e-uso-del-package-manager-pip)
+    - [Python come moderno linguaggio di scripting](#python-come-moderno-linguaggio-di-scripting)
 
 ### Introduzione e Storia
+
 **Vecchio logo**
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Python_logo_1990s.svg/1920px-Python_logo_1990s.svg.png" width="33%"/> 
@@ -65,3 +67,16 @@ Le parole e i simboli che fanno il linguaggio.
 
 [documentazione](https://docs.python.org/3/reference/lexical_analysis.html)
 
+### Tipi di dato semplici
+
+### Cicli Interattivi e Iterativi
+
+### Funzioni, moduli e oggetti
+
+### Strutture dati: list, tuple, set, dictionary
+
+### Gestione delle stringhe, dei file e dell'input da terminale
+
+### Installazione e uso del package manager PIP
+
+### Python come moderno linguaggio di scripting
