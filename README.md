@@ -8,6 +8,7 @@ DigiGreen Manufacturing base (48 h) – GP5
     - [Introduzione e Storia](#introduzione-e-storia)
     - [L'interprete Python e l'IDLE](#linterprete-python-e-lidle)
     - [Sintassi](#sintassi)
+      - [Funzione print](#funzione-print)
     - [Tipi di dato semplici](#tipi-di-dato-semplici)
     - [Cicli Interattivi e Iterativi](#cicli-interattivi-e-iterativi)
     - [Funzioni, moduli e oggetti](#funzioni-moduli-e-oggetti)
@@ -66,6 +67,11 @@ Cosa si può fare con python:
 Le parole e i simboli che fanno il linguaggio.
 
 [documentazione](https://docs.python.org/3/reference/lexical_analysis.html)
+
+#### Funzione print
+[codice con esempio](./Esempi/esempi_print.py) da lanciare, modificare e rilanciare!
+
+
 
 ### Tipi di dato semplici
 
