@@ -9,6 +9,7 @@ DigiGreen Manufacturing base (48 h) – GP5
     - [L'interprete Python e l'IDLE](#linterprete-python-e-lidle)
     - [Sintassi](#sintassi)
       - [Funzione print](#funzione-print)
+      - [Funzioni con ritorno](#funzioni-con-ritorno)
     - [Tipi di dato semplici](#tipi-di-dato-semplici)
     - [Cicli Interattivi e Iterativi](#cicli-interattivi-e-iterativi)
     - [Funzioni, moduli e oggetti](#funzioni-moduli-e-oggetti)
@@ -69,9 +70,10 @@ Le parole e i simboli che fanno il linguaggio.
 [documentazione](https://docs.python.org/3/reference/lexical_analysis.html)
 
 #### Funzione print
-[codice con esempio](./Esempi/esempi_print.py) da lanciare, modificare e rilanciare!
+[codice con esempi](./Esempi/esempi_print.py) da lanciare, modificare e rilanciare!
 
-
+#### Funzioni con ritorno
+[codice con esempi](./Esempi/funzioni_ritorno.py)
 
 ### Tipi di dato semplici
 
