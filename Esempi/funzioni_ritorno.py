@@ -28,9 +28,16 @@ il_mio_int = int(string_int)
 
 print("il_mio_int", il_mio_int)
 
+# per capire come si comporta la funzione time() ho bisogno di aiuto 
+# help(time)
 print("Che ore sono?", time())
-# per capire come si comporta la funzione ho bisogno di aiuto 
-help(time)
 
 
-
+"""La funzione len() ci ritorna il la lunghezza di un elemento che gli 
+viene passato
+Se si tratta di una stringa, ritorna il numero di caratteri, se è una 
+lista ritorna il numero di elementi.."""
+# help(len)
+# len(0) # raise TypeError
+len_hello = len("hello ")
+print(len_hello)
