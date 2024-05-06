@@ -10,6 +10,7 @@ DigiGreen Manufacturing base (48 h) – GP5
     - [Sintassi](#sintassi)
       - [Funzione print](#funzione-print)
       - [Funzioni con ritorno](#funzioni-con-ritorno)
+      - [Esercizio](#esercizio)
     - [Tipi di dato semplici](#tipi-di-dato-semplici)
     - [Cicli Interattivi e Iterativi](#cicli-interattivi-e-iterativi)
     - [Funzioni, moduli e oggetti](#funzioni-moduli-e-oggetti)
@@ -19,6 +20,8 @@ DigiGreen Manufacturing base (48 h) – GP5
     - [Python come moderno linguaggio di scripting](#python-come-moderno-linguaggio-di-scripting)
 
 ### Introduzione e Storia
+
+[slide](https://docs.google.com/presentation/d/122N21k2_MtJehqsGaAKmmj1EDI5lWALfzuM-X1WGAVU/edit?usp=sharing)
 
 **Vecchio logo**
 
@@ -59,12 +62,15 @@ Cosa si può fare con python:
 
 ### L'interprete Python e l'IDLE
 
+[slide](https://docs.google.com/presentation/d/16P8V_V3i6wOxzOaCVx47xnZej2yCXYtZ_WrOZnWsdMs/edit?usp=sharing)
+
 - Linguaggi interpretati VS linguaggi compilati [esempio C++](./Esempi/helloC.cpp)
 - Interprete python [articolo in inglese](https://learnpython.com/blog/blopython-interpreter/)
 - Guida intergalattica al terminale aka la riga di comando [linuxcommand.org](https://linuxcommand.org/index.php)
 
 ### Sintassi
 
+[slide](https://docs.google.com/presentation/d/1mihm0iy8C5F_lzG7AZeR49mvJW6jRxfCqGXxSUL-z9Y/edit?usp=sharing)
 Le parole e i simboli che fanno il linguaggio.
 
 [documentazione](https://docs.python.org/3/reference/lexical_analysis.html)
@@ -75,7 +81,11 @@ Le parole e i simboli che fanno il linguaggio.
 #### Funzioni con ritorno
 [codice con esempi](./Esempi/funzioni_ritorno.py)
 
+#### Esercizio
+[Esercizio Proposto](./Esercizi/tempo.py) prevede di gestire il ritorno della funzione `tempo()` assegnandolo a una variabile per poi poterci svolgere operazioni algebriche.
+
 ### Tipi di dato semplici
+
 
 ### Cicli Interattivi e Iterativi
 
