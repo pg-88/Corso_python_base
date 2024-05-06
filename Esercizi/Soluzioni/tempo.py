@@ -18,5 +18,5 @@ print(int(giorni))
 print(
     "più o meno ", 
     giorni // 365, 
-    " dall'inizio dell'epoca da cui parte a contare la fz time()"
+    " anni dall'inizio dell'epoca da cui parte a contare la fz time()"
     )
