@@ -17,7 +17,8 @@ DigiGreen Manufacturing base (48 h) – GP5
     - [Strutture dati: list, tuple, set, dictionary](#strutture-dati-list-tuple-set-dictionary)
     - [Gestione delle stringhe, dei file e dell'input da terminale](#gestione-delle-stringhe-dei-file-e-dellinput-da-terminale)
     - [Installazione e uso del package manager PIP](#installazione-e-uso-del-package-manager-pip)
-    - [Python come moderno linguaggio di scripting](#python-come-moderno-linguaggio-di-scripting)
+    - [Python come moderno linguaggio di Scripting](#python-come-moderno-linguaggio-di-scripting)
+- [Hello World!](#hello-world)
 
 ### Introduzione e Storia
 
@@ -97,4 +98,7 @@ Le parole e i simboli che fanno il linguaggio.
 
 ### Installazione e uso del package manager PIP
 
-### Python come moderno linguaggio di scripting
+### Python come moderno linguaggio di Scripting
+
+
+# Hello World!
