@@ -2,7 +2,6 @@ from pathlib import Path
 import os
 
 
-
 class PercorsoScaricati:
     """individua il percorso della cartella scaricati"""
 

@@ -18,7 +18,6 @@ DigiGreen Manufacturing base (48 h) – GP5
     - [Gestione delle stringhe, dei file e dell'input da terminale](#gestione-delle-stringhe-dei-file-e-dellinput-da-terminale)
     - [Installazione e uso del package manager PIP](#installazione-e-uso-del-package-manager-pip)
     - [Python come moderno linguaggio di Scripting](#python-come-moderno-linguaggio-di-scripting)
-- [Hello World!](#hello-world)
 
 ### Introduzione e Storia
 
@@ -86,8 +85,7 @@ Le parole e i simboli che fanno il linguaggio.
 [Esercizio Proposto](./Esercizi/tempo.py) prevede di gestire il ritorno della funzione `tempo()` assegnandolo a una variabile per poi poterci svolgere operazioni algebriche.
 
 ### Tipi di dato semplici
-
-
+[slide](https://docs.google.com/presentation/d/13muy_9qsUs6OWGAY529W9X7fO0X0gV5bND8K4yYncto/edit#slide=id.g1ec709cba46_2_23)
 ### Cicli Interattivi e Iterativi
 
 ### Funzioni, moduli e oggetti
@@ -99,6 +97,3 @@ Le parole e i simboli che fanno il linguaggio.
 ### Installazione e uso del package manager PIP
 
 ### Python come moderno linguaggio di Scripting
-
-
-# Hello World!

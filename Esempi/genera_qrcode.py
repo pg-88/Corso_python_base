@@ -20,7 +20,6 @@ print(a.nome, a.contenuto, type(a))
 img = qr.make(a.contenuto)
 img.save(f"{a.nome}.png")
 
-
 """Come si usa:
 Da terminale a riga di comando, dopo il comando per lanciare python 
 (da me python3, potrebbe essere python o py) seguito dal nome di questo file
