@@ -15,10 +15,7 @@ print(spazi)
 """Con i cicli for, creare una stringa di n_colonne e n_righe che contenga solo punti"""
 stringa = "" 
 
-for i in range(0,10):
-    for j in range(1,10):
-        stringa += "." 
-
-    stringa += f"riga{i}" + '\n'
+n_colonne = 10 
+n_righe = 10 
 
 print(stringa)
