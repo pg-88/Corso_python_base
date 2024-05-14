@@ -86,8 +86,14 @@ Le parole e i simboli che fanno il linguaggio.
 
 ### Tipi di dato semplici
 [slide](https://docs.google.com/presentation/d/13muy_9qsUs6OWGAY529W9X7fO0X0gV5bND8K4yYncto/edit#slide=id.g1ec709cba46_2_23)
+
+[esempi stringhe](./Esempi/stringhe/esempi_stringhe.py)
+
+[cambiare tipo di dato](./Esercizi/input.py)
+
 ### Cicli Interattivi e Iterativi
 
+[slide cicli](https://docs.google.com/presentation/d/1Qnd5xqA0lQdYrUosftfUFUwdm8gplTTI9CQLw9aFTx0/edit?usp=sharing)
 ### Funzioni, moduli e oggetti
 
 ### Strutture dati: list, tuple, set, dictionary

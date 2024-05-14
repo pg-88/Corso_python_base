@@ -5,6 +5,6 @@ Queste proprietà sono sempre precedute dal 'dunder' ovvero il doppio
 underscore (Double UNDERscore)"""
 
 print("nome dato dal sistema al file in esecuzione", __name__)
-print("nome del file nel sistema operativo ", __file__)
+print("nome del file nel sistema operativo", __file__)
 print("docstring, documentazione a inizio del codice ", __doc__)
-print(__cached__)
+
