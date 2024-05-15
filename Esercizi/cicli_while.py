@@ -21,7 +21,7 @@ n_max = 5  # fino a quale numero della serie vogliamo arrivare
 n_0 = 0 
 n_1 = 1
 
-iterazione = 0 
+iterazione = 1 #### da prestare attenzione
 
 risultato = 0
 

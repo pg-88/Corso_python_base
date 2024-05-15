@@ -13,6 +13,7 @@ DigiGreen Manufacturing base (48 h) – GP5
       - [Esercizio](#esercizio)
     - [Tipi di dato semplici](#tipi-di-dato-semplici)
     - [Cicli Interattivi e Iterativi](#cicli-interattivi-e-iterativi)
+      - [Fuori tema](#fuori-tema)
     - [Funzioni, moduli e oggetti](#funzioni-moduli-e-oggetti)
     - [Strutture dati: list, tuple, set, dictionary](#strutture-dati-list-tuple-set-dictionary)
     - [Gestione delle stringhe, dei file e dell'input da terminale](#gestione-delle-stringhe-dei-file-e-dellinput-da-terminale)
@@ -94,7 +95,25 @@ Le parole e i simboli che fanno il linguaggio.
 ### Cicli Interattivi e Iterativi
 
 [slide cicli](https://docs.google.com/presentation/d/1Qnd5xqA0lQdYrUosftfUFUwdm8gplTTI9CQLw9aFTx0/edit?usp=sharing)
+
+[Esempi con i cicli](./Esempi/cicli/ciclo_intro.py)
+
+[Cicli While](./Esercizi/cicli_while.py)
+
+[Cicli For](./Esercizi/cicli_for.py)
+
+#### Fuori tema 
+Esempio di un notebook jupyter [Notebook jupyter](./Notebook/random.ipynb).
+
+- Per installare la libreria: `pip install jupyter`
+
 ### Funzioni, moduli e oggetti
+
+[slide](https://docs.google.com/presentation/d/1iy03POHIZsC4vqxhKJXtCbs1qZEtm7NCVd-Ewf3QBq0/edit?usp=sharing)
+
+[esercizi](./Esercizi/funzioni.py)
+
+[extra](./Notebook/decoratori.ipynb)
 
 ### Strutture dati: list, tuple, set, dictionary
 
