@@ -19,6 +19,7 @@ DigiGreen Manufacturing base (48 h) – GP5
     - [Gestione delle stringhe, dei file e dell'input da terminale](#gestione-delle-stringhe-dei-file-e-dellinput-da-terminale)
     - [Installazione e uso del package manager PIP](#installazione-e-uso-del-package-manager-pip)
     - [Python come moderno linguaggio di Scripting](#python-come-moderno-linguaggio-di-scripting)
+  - [Progetto Automobile](#progetto-automobile)
 
 ### Introduzione e Storia
 
@@ -122,3 +123,8 @@ Esempio di un notebook jupyter [Notebook jupyter](./Notebook/random.ipynb).
 ### Installazione e uso del package manager PIP
 
 ### Python come moderno linguaggio di Scripting
+
+
+## Progetto Automobile
+
+Il file main con il la signature e docstring delle funzioni finora penste è [main_automobili](./Esercizi/main_automobili.py)
