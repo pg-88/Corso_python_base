@@ -118,7 +118,17 @@ Esempio di un notebook jupyter [Notebook jupyter](./Notebook/random.ipynb).
 
 ### Strutture dati: list, tuple, set, dictionary
 
+[slide](https://docs.google.com/presentation/d/1MPA17cY1oOrEMthsCOMtBJhoCDTgpSLoaEYhoJQq47M/edit?usp=sharing)
+
+[esercizi liste](./Esercizi/liste.py)
+[esercizi dictionary](./Esercizi/dizionari.py)
+
+
+[Gestire gli errori](./Notebook/gestione_errori.ipynb)
+
 ### Gestione delle stringhe, dei file e dell'input da terminale
+
+[Leggere e scrivere File](./Notebook/leggere_scrivere_file.ipynb)
 
 ### Installazione e uso del package manager PIP
 

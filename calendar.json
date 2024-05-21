@@ -1,0 +1,96 @@
+{
+    "kind": "calendar#events",
+    "etag": "\"p32gf3j1lqio0g0\"",
+    "summary": "Calendario Personale",
+    "updated": "2024-05-21T12:00:00Z",
+    "timeZone": "Europe/Rome",
+    "accessRole": "owner",
+    "items": [
+      {
+        "kind": "calendar#event",
+        "etag": "\"p32gf3j1lqio0g0\"",
+        "id": "1a2b3c4d5e6f7g8h9i",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=1a2b3c4d5e6f7g8h9i",
+        "created": "2024-05-01T10:00:00Z",
+        "updated": "2024-05-01T10:00:00Z",
+        "summary": "Riunione di lavoro",
+        "description": "Discussione sul progetto X",
+        "location": "Ufficio, Via Roma 123, Roma",
+        "creator": {
+          "email": "tuo.email@example.com",
+          "displayName": "Mario Rossi"
+        },
+        "organizer": {
+          "email": "tuo.email@example.com",
+          "displayName": "Mario Rossi"
+        },
+        "start": {
+          "dateTime": "2024-05-21T09:00:00+02:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2024-05-21T10:00:00+02:00",
+          "timeZone": "Europe/Rome"
+        },
+        "recurrence": [
+          "RRULE:FREQ=WEEKLY;BYDAY=MO"
+        ],
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "email",
+              "minutes": 1440
+            },
+            {
+              "method": "popup",
+              "minutes": 10
+            }
+          ]
+        }
+      },
+      {
+        "kind": "calendar#event",
+        "etag": "\"p32gf3j1lqio0g0\"",
+        "id": "2a3b4c5d6e7f8g9h0i",
+        "status": "confirmed",
+        "htmlLink": "https://www.google.com/calendar/event?eid=2a3b4c5d6e7f8g9h0i",
+        "created": "2024-05-02T15:00:00Z",
+        "updated": "2024-05-02T15:00:00Z",
+        "summary": "Cena con amici",
+        "description": "Cena al ristorante",
+        "location": "Ristorante Bella Italia, Via Milano 456, Milano",
+        "creator": {
+          "email": "tuo.email@example.com",
+          "displayName": "Mario Rossi"
+        },
+        "organizer": {
+          "email": "tuo.email@example.com",
+          "displayName": "Mario Rossi"
+        },
+        "start": {
+          "dateTime": "2024-05-22T20:00:00+02:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2024-05-22T22:00:00+02:00",
+          "timeZone": "Europe/Rome"
+        },
+        "reminders": {
+          "useDefault": false,
+          "overrides": [
+            {
+              "method": "email",
+              "minutes": 60
+            },
+            {
+              "method": "popup",
+              "minutes": 30
+            }
+          ]
+        }
+      }
+    ]
+  }
+  
