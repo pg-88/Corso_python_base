@@ -27,21 +27,22 @@ Vicino a noi abita mia sorella Giulia con la sua famiglia. I miei figli giocano 
 Io sono una casalinga che lavora inoltre a casa come articolista. Mio marito è invece un operaio. È una persona molto buona e gioca spesso con i suoi tre figli. Sono molto felice della mia famiglia! """
 
 def ferquenza_parole(testo: str):
+    testo = testo.lower()
+    for c in ".,;:_-?'!":
+        testo = testo.replace(c, ' ')
     lista_stringhe = testo.split()
+
 
     frequenze = {}
 
     for parola in lista_stringhe:
-        parola = parola.strip().lower()
-        if parola.endswith(('.', ',', ':', '!', '?')):
-            parola = parola[:-1]
         frequenze[parola] = frequenze.get(parola, 0) + 1
         # print(parola)
     return frequenze
 
 freq_dict = ferquenza_parole(testo_esempio)
 
-
+print(freq_dict.items())
 
 
 
