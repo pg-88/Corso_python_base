@@ -129,6 +129,9 @@ Esempio di un notebook jupyter [Notebook jupyter](./Notebook/random.ipynb).
 ### Gestione delle stringhe, dei file e dell'input da terminale
 
 [Leggere e scrivere File](./Notebook/leggere_scrivere_file.ipynb)
+[Modulo sys](./Notebook/libreria_sys.ipynb)
+[Modulo os](./Notebook/libreria_os.ipynb)
+
 
 ### Installazione e uso del package manager PIP
 

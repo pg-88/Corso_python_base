@@ -1,0 +1,923 @@
+﻿Dante Alighieri
+La vita nuova
+Questo e-book è stato realizzato anche grazie al sostegno di:
+
+E-text
+Web design, Editoria, Multimedia
+(pubblica il tuo libro, o crea il tuo sito con E-text!)
+www.e-text.it
+
+QUESTO E-BOOK:
+
+TITOLO: La Vita nuova
+AUTORE: Alighieri, Dante
+TRADUTTORE:
+CURATORE:
+NOTE: Il testo è presente in formato immagine su Universitäts und Stadtbibliothek Köln / Sammlung Westerholt University and City Library of Cologne.
+Realizzato in collaborazione con il Project Gutenberg (https://www.gutenberg.org/) tramite Distributed Proofreaders (https://www.pgdp.net/).
+CODICE ISBN E-BOOK: n. d.
+
+DIRITTI D'AUTORE: no
+
+LICENZA: questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: www.liberliber.it/online/opere/libri/licenze
+
+COPERTINA: n. d.
+
+TRATTO DA: La Vita nuova / di Dante ; con le illustrazioni di Dante Gabriele Rossetti. - Torino ; Roma : Roux e Viarengo, 1903. - 168 p., [11] c. di tav. : ill. ; 22 cm.
+
+CODICE ISBN FONTE: n. d.
+
+1a EDIZIONE ELETTRONICA DEL: 14 maggio 2024
+
+INDICE DI AFFIDABILITÀ: 1
+0: affidabilità bassa
+1: affidabilità standard
+2: affidabilità buona
+3: affidabilità ottima
+
+SOGGETTO:
+POE000000 POESIA / Generale
+
+CDD:
+851.1 POESIA ITALIANA. ORIGINI-1375
+
+DIGITALIZZAZIONE:
+Distributed proofreaders, https://www.pgdp.net/
+
+REVISIONE:
+Barbara Magni, bfmagni@gmail.com
+
+IMPAGINAZIONE:
+Claudio Paganelli, paganelli@mclink.it
+
+PUBBLICAZIONE:
+Claudio Paganelli, paganelli@mclink.it
+Claudia Pantanetti, liberabibliotecapgt@gmail.com
+Liber Liber
+
+Se questo libro ti è piaciuto, aiutaci a realizzarne altri. Fai una donazione: www.liberliber.it/online/aiuta.
+Scopri sul sito Internet di Liber Liber ciò che stiamo realizzando: migliaia di ebook gratuiti in edizione integrale, audiolibri, brani musicali con licenza libera, video e tanto altro: www.liberliber.it.
+LA
+VITA NUOVA
+DI
+DANTE
+CON LE ILLUSTRAZIONI DI DANTE GABRIELE ROSSETTI
+Casa Editrice Nazionale
+ROUX e VIARENGO
+TORINO ‒ ROMA
+1903
+A NORMA DELLE LEGGI VIGENTI È RISERVATA LA PROPRIETÀ ARTISTICA DELLA PRESENTE EDIZIONE.
+La vita nuova di Dante e i quadri di D. G. Rossetti.
+Le parole «Manus animam pinxit» dettate dal Rossetti in un suo racconto di carattere trecentista1 compendiano tutta una teoria pittorica e svelano il segreto ‒ se meglio delle parole non lo dicessero i quadri ‒ di quella sua opera profondamente suggestiva che rinnovò l'arte inglese e che ha tutt'ora un tanto grande influsso su l'arte contemporanea del continente.
+Il Rossetti fu il pittore delle anime. Il simbolismo dei suoi quadri è meno evidente nella scelta degli accessorî, di ciò che sia nella posa, nell'azione e nell'espressione delle figure dipinte e disegnate da lui.
+I profondi occhi fissano intensamente come interroganti un'impenetrabile mistero, mentre le bocche, sublimi di bellezza, nate al bacio, hanno un qualche cosa di doloroso che sembra dire mille pensieri nascosti, desideri ardentemente perseguiti; paiono ad un tempo sorridere blandamente e dolorosamente socchiudersi, come in quei che scoprono innanzi a sè cose non mai immaginate nè intraviste, e ne sono addolorati e lieti e sorpresi ad un tempo; e dicono parole che l'orecchio mortale non intende, ma che le anime ascoltano e comprendono, dal di là del dominio dei sensi e delle cose materiate nella esistenza:
+«Ed avea seco umiltà sì verace
+Che parea che dicesse: Io sono in pace».
+Quel vivere di lui solitario, lontano dai tumulti, dalla battaglia aspra che egli e gli amici suoi sollevavano con i loro lavori, gli aveva permesso d'interrogare e di sentire profondamente dentro sè stesso e di rendere poi, in immaginazioni ricche di sentimento, di luce e di colore, quella sua vita spirituale che gli dettava i sonetti della House of life, e gli aveva insegnato a cercare nei trecentisti, poeti e pittori, ‒ a' quali per l'anima si sentiva tanto vicino ‒ i maestri del dire e del fare nell'opera sua.
+Forse a questo suo modo di comprendere e di fare non fu estraneo l'ambiente nel quale si sviluppò e crebbe la sua giovinezza. Forse il pensiero e l'opera di Dante Gabriele Rossetti sono un risultato di più, fra i tanti meravigliosi, della lotta per il risorgimento italiano.
+A Londra, nella casa del padre suo ‒ l'esule poeta vastese ‒ s'incontravano i profughi italiani, i fuggiti al capestro o alla galera del Borbone e dell'Austria, e chi sa quante volte correva e ricorreva su le labbra di quei forti, destinati a vivere nel paese umido e nebbioso, il nome della terra ricca di sole e di fiori. E chi sa quante volte sonò alle orecchie del giovine il nome di Dante, benedetto come quello di colui che, primo, aveva detto all'Italia la parola della sua libertà nazionale.
+W. M. Rossetti, il fratello del poeta-pittore, ha in un suo libro2 un capitolo, ove appunto egli descrive gli italiani che frequentavano la casa paterna, e ne accenna le discussioni più frequenti, le speranze, gli entusiasmi, gli scoraggiamenti; tutta la vita di uomini che hanno dato tutto il proprio essere ad un ideale, per quello solo vivono e solo in quello sperano. E frequentissime dovevano essere le discussioni su l'Alighieri, poichè, già prima che Dante Gabriele nascesse, il padre suo aveva pubblicato un'edizione in due volumi dell'«Inferno», nel commento del quale s'annunziava già la teoria che egli avrebbe difesa più tardi, compendiando, e poi avanzando molto nell'audacia delle affermazioni, il Filelfo, il Perez, ed il Biscioni.
+Forse le teoriche del padre su gli intendimenti nascosti dell'Alighieri ‒ teoriche espresse e difese con grande copia di erudizione nei libri «Dello spirito antipapale», «L'amore Platonico», «La Beatrice di Dante» ‒ non ebbero grande influsso sul pensiero del figlio. Nessuna traccia si riscontra, nel lavoro di Dante Gabriele, delle idee del padre pubblicate nel 1832, nel '40, nel '42; ma certamente tutto l'insieme dell'ambiente italiano agì su di lui; egli sentì il profondo sentimento vivo dell'Alighieri, la passione di lui lo infiammò; egli riuscì ad immedesimarsi tanto l'opera del Divino che nel 1849 già gli era nata nella mente l'idea d'illustrare l'amoroso pensiero di Dante.
+Di questa epoca è il primo bozzetto del quadro «Dante sorpreso a disegnare un angelo»; dell'anno di poi è il primo schizzo del «Saluto di Beatrice». D. G. Rossetti aveva allora ventun anni.
+In quest'anno, 1850, intorno al Nostro, a Holman Hunt e a John Everett Millais ‒ i primi tre P. R. B.3 ‒ si scatenò la tempesta degli Accademici.
+I tre l'avevano provocata esponendo, il Rossetti «L'Annunciazione», l'Hunt «I Missionari cristiani in Bretagna», e il Millais «La bottega del falegname».
+Erano tre giovani artisti che cercavano di fare bello e bene, e furono presi per tre missionari cattolici. La critica che allora fece tremare le vene e i polsi dei tre giovani, fa sorridere oggi per la sua puerile ostilità; allora parve avere il sopravvento su loro. Ma dovette tacere, il giorno che la ostinata perseveranza dei tre, cui si erano aggiunti altri meno di loro valenti, non però meno volenterosi4, richiamò su loro l'attenzione di John Ruskin, e questi scese nell'arringo difendendone, con tutta la foga del suo temperamento e tutta la maestria della sua arte, i tentativi, le intenzioni e il lavoro.
+E da quel momento essi continuarono infaticabili l'opera loro fino che un giorno, ad un bivio della via, si divisero: il Rossetti per farsi più grande, l'Hunt per proseguire nella via che fino dal primo giorno erasi tracciata, il Millais per rivelarsi minore di sè stesso.
+Nel «Giornale» dei Preraffaellisti ‒ regolarmente tenuto da W. M. Rossetti, che, essendo critico d'arte era il segretario del gruppo ‒ trovo notate dal sabato 23 al sabato 29 (1853) queste parole: «Egli (Gabriele) è ora ripreso dall'idea di pubblicare la sua edizione della Vita Nova corretta ed illustrata». Infatti questa traduzione, cominciata nel 1847 e terminata nel 1849, uscì nel 1861 col titolo «Early Italian Poets». Questa sua traduzione, alla quale il fratello Guglielmo pose mano per alcuni dei brani di prosa, è riconosciuta come la più perfetta traduzione inglese dell'opera giovanile del nostro massimo poeta, e le fanno degna compagnia le altre traduzioni dei primitivi poeti italiani che da Folcacchiero de' Folcacchieri (1170), vanno a Franco Sacchetti, della fine del 1300.
+Si può dire che quest'opera lo interessò, lo tenne a sè tutta la vita. Infatti nel 1880 ‒ poco più di un anno prima di morire ‒ egli metteva mano al quadro incompiuto di «Beatrice» inspirato al sonetto:
+«Tanto gentile e tanto onesta pare».
+In questo quadro il Rossetti dipinse la meravigliosa testa di Beatrice, che è, forse, la più bella fra le teste di donna dipinte da lui, ed è superata soltanto dallo splendido disegno a matita che egli fece come studio del quadro ad olio.
+In tutto il lavoro di questo inglese, dallo spirito italiano, palpita l'amore dei primitivi canzonieri. La donna della House of life è la fanciulla amata da lui ed anche qualche cosa di più; qualche cosa di più etereo, di più spirituale, è sorella di
+«Quella donna gentil, cui piange Amore»
+è la ispiratrice purissima, lo scrigno geloso d'ogni gioia divina, quella che dell'Amore ama il simbolo più bello e della quale egli può dire
+«My lady only loves the heart of love»5
+e può cantarla come colei che in sè immedesima e da sè intorno, spande
+«..... choir-strains of her tongue,
+Sky spaces of her eyes ‒ sweet signs that flee
+About her soul's immediate sanctuary»6.
+E l'amore è, nel pensiero dell'Artista, un insieme di simboli, di sogni e di potenza; qualche cosa che viene da lungi, dall'alto; un'onda di mistero; qualche cosa di severo e di pensoso che domina tutte le cose, passa attraverso a tutte quelle che per lui e in lui vivono:
+«Amor che muove il sole e l'altre stelle».
+Non lo ha egli detto in quel suo tocco in penna, il più strano che mente di pittore abbia mai immaginato, del «Dantis Amor?»
+In questo quadro egli è riuscito a rendere quel simbolismo che Dante ha espresso coi numeri. Tutti e due sono platonici; il Poeta come un filosofo, il pittore come un poeta. L'Alighieri ci racconta la perfezione della sua donna, e ce la dimostra cosa divina, in quel fortuito concorso del numero perfetto che presenziò alla morte di Lei; il Rossetti ci presenta l'Amore ‒ l'Amore che il poeta incontrò
+«..... nel mezzo della via
+In abito leggier di peregrino» ‒
+e ce lo mostra circondato dai simboli dello spazio e del tempo, del giorno e della notte, e porta il quadrante che accenna l'anno del dolore e l'ora dell'angoscia.
+In tutta l'opera di Rossetti, poemi e pitture, c'è come un'ombra di dolore. Egli ha sentito che il dolore è la trama su la quale è tessuta la vita. Ogni breve gioia della esistenza è soffocata dalle sofferenze, e l'occhio è più sovente umido di pianto, che non brillante di sorrisi. E questo suo intimo senso del dolore umano gli ha permesso d'essere tanto suggestivo nelle sue figure. Ed anche per questo suo squisito sentire nella profondità della coscienza umana, maciullata dal dolore, i suoi capolavori sono appunto i quadri ne' quali domina, non veduta, eppure presente, la Morte.
+«Beata Beatrix» non è morta no, ‒ egli lo ha scritto: ‒ gli occhi di Lei sono socchiusi nell'estasi divina che la rapisce alla terra e le schiude le meraviglie del cielo. Vengono, avvolti nell'aureola che circonda la testa di Beatrice, Dante e l'Amore che lo guida, e si scorge, nello sfondo lontano, nella penombra leggera, la città che udirà fra un istante le parole che l'ambascia strappa al desolato Poeta «quomodo sedet sola civitas!» parole non sue, lingua non sua, come s'egli non sapesse trovare nel dolore, nulla di suo per esprimerlo. Ma tutta la vita non è fra quei vivi. Meravigliosa, nella luce d'oro che le sfavilla intorno e vela lo sfondo del quadro, Beatrice sola sembra vivere; eppure i simboli che la circondano dicono la fine della vita corruttibile; le mani giunte di lei, l'uccello nunzio di morte, il quadrante accennano l'ultimo sonno.
+Questo quadro, ora nella National Tate Gallery, fu dipinto da lui la prima volta nel 1863, due anni dopo il «Dantis Amor», e un anno dopo ch'egli aveva pubblicata la sua traduzione inglese degli «Early Italian Poets».
+Lo ripetè poi altre tre volte, per commissione sempre, nel 1869, nel 1872 e nel 1877.
+Egli sarebbe stato felice se avesse potuto pubblicare la Vita Nova illustrata da acque forti sue, ed in una sua lettera lo dice. Forse è stato bene che egli non abbia mai potuto limitare l'opera sua a quel lavoro. Noi abbiamo avuto così i quadri della Vita Nova, una meravigliosa opera, arricchiti dalla magìa del colore oltre che dalla forza della rappresentazione grafica.
+Io ho detto altrove7 che egli, col trascorrere degli anni e l'indefesso lavorare sarebbe riuscito a farsi «disegnatore più abile e corretto... ma come colorista non aumenterà nè diminuirà di potenza, perchè non si può essere colorista più perfetto di lui, nè più di lui possedere la scienza dell'armonia nelle tonalità chiare, negli ampî spazi riverberanti di luce e di sole».
+Tutti i suoi quadri sono una gloria di luce e di colori. Egli bandì dalla sua tavolozza il bitume per i fondi, le tonalità scialbe, i colori dimessi che l'Accademia proclamava indispensabili, i mezzi-rossi, i mezzi-verdi, le luci colate attraverso il vetro ed il tendone dello studio. Guardando i quadri degli artisti che lo precedettero ed i suoi, si ha l'impressione di vederlo spalancare una finestra alla rutilante luce del sole, gridando ai vicini ed ai lontani: ‒ Lasciateci godere intiero quel bene che Dio ci dà!
+Infatti nel «Sogno di Dante», ora nella Walker Fine Art Gallery di Liverpool, cominciato nel 1869 e terminato nel giugno del 1872, egli si mantiene lo stesso glorioso e meraviglioso colorista della «Beata Beatrix»; ed è anche il disegnatore che possiede ormai il segreto della perfetta armonia dei gruppi e dei colori.
+Nell'alto del quadro una ghirlanda d'angeli portano al cielo l'anima di Beatrice:
+«..... pareami di vedere una moltitudine d'angeli i quali tornassero in suso ed avessero dinanzi loro una nuvoletta bianchissima.....».
+Intorno a loro raggia la luce d'oro, di neve e di fuoco che abbagliò Dante, quando alzò gli occhi per mirare la rosa Paradisiaca. Nel quadro è una luce tenera, delicata, irradiata da Beatrice morta e da Amore che, conducendo Dante per la mano, bacia la vergine estinta. Un ritorno al pensiero che la vita e l'amore stanno oltre la vita terrena, è rivelato dalle vesti dei diversi personaggi del quadro. Quelli che appartengono alla terra, Dante e le donne che coprono d'un velo la morta, sono vestiti di colori più dimessi; Dante ha la tunica bruna; le donne han le vesti verde-oliva: Beatrice e l'Amore vestono i colori della gioia, Beatrice di bianco e l'Amore d'una lunga tunica porporina che sembra effondere vampate di fuoco su la veste di Dante.
+Nel 1881 egli rifece questo quadro; vi aggiunse la predella che illustra in un dittico il passo della Vita Nova:
+«Ond'io, essendo alquanto riconfortato, e conoscendo il fallace immaginare, risposi loro: Io vi dirò quello c'ho avuto..... »
+e i primi versi della canzone:
+«Donna pietosa e di novella etate»
+e la espose al pubblico.
+Uno slancio d'ammirazione circondò il pittore.
+Certamente, e da lungo tempo, egli aveva trionfato della critica inetta e della invidia maligna; s'era affermato come il più grande pittore inglese vivente; ma si aspettava ancora, da lui, il capolavoro, l'opera magistrale, l'opera immortale. E fu questo quadro. Egli riunì qui la sua scienza, la sua tecnica, la sua arte, il suo pensiero, e riuscì perfetto. Il simbolismo dei fiori e degli accessori del quadro, ricorda il profondo misticismo dei poeti del XII e XIII secolo. I fiori di papavero, de' quali è sparso il suolo, le rose e le viole, i fiori di bianco spino, la lampada che dà l'ultimo guizzo di luce, tutto ha un significato speciale, e non meglio di così potevano essere illustrati i versi del poeta:
+«Mi condusse a veder mia donna morta
+E quando l'ebbi scorta
+Vedea che donne la coprian d'un velo».
+Il pensiero mistico del poeta non poteva trovare una interpretazione più perfetta di questa che ne fece il Rossetti.
+Alla bellezza del quadro contribuisce la bellezza dei tipi scelti a modello. In questo, egli seguiva veramente il metodo dei primitivi italiani e sono pochissime, in tutti i suoi quadri, le teste dipinte di invenzione o molto modificate da lui. Certo, in quasi tutti i suoi tipi v'ha quasi come una lontana rassomiglianza; un'aria di famiglia le ravvicina tutte e dipende dalla profonda intensità dello sguardo delle sue figure. I tratti generali, anzi il tipo, l'espressione, sono dei suoi modelli. Nè volle che fossero il primo modello venuto. Donne elette per intelligenza, coltura, carattere; bellissime donne, spose, figlie, sorelle d'amici suoi posarono per lui e gli offrirono il tipo delle sue Beatrici, della sua Maddalena, di tutte le sue donne; moltissimo si prestarono a ciò la signora Morris, la signora Stillmann, e sua moglie Elisabetta. In alcuni quadri le teste sono assolutamente ritratti, come quella meravigliosa della «Beata Beatrix» ritratto della sua Elisabetta.
+Nel «Sogno di Dante» la signora Stillmann è, delle due donne che sorreggono il velo, quella a capo del letto, Miss Wilding è l'altra. La signora Morris è Beatrice.
+C'era in lui, e nel suo carattere, molto dell'italiano. Dei figli di Gabriele Rossetti egli fu certamente il più italiano. Ma, fenomeno degno d'osservazione, egli fu un italiano medioevale.
+I suoi più intimi pensieri, il suo modo di considerare i grandi misteri della vita, la sua perfetta indifferenza per le scoperte scientifiche non erano d'un uomo del nostro tempo.
+Egli viveva col corpo nella nostra epoca, la sua anima era d'altri secoli. Per ciò, forse, egli potette tanto completamente immedesimarsi l'Alighieri; per ciò forse lo tentarono e lo fecero grande i misteri della Vita Nova, la passione ardente, il profondo amore, il mistico parlare del Fiorentino.
+Mi sembra, talvolta, guardando il lavoro di lui, che esso non sia opera d'un moderno, ma sibbene d'un antico, contemporaneo di Giotto e dell'Orcagna per il sentimento, discepolo dei Maestri veneziani per il colorito, e maestro, vissuto ieri, di nuovi artisti che cercano nella via della vita e dell'arte un sentiero non ancora battuto; tanto è profonda la sua coscienza della vita antica, e tanto è perfetta l'opera della sua mano.
+E probabilmente anche ciò si deve alla sua grande scrupolosità nel lavoro. Qualche volta rifaceva due o tre volte il bozzetto d'un quadro; e gli studi erano, da lui, condotti a termine con tale perfezione che rimanevano, di per sè stessi, un quadro. Del «Dante sorpreso a disegnare un angelo» vi sono due bozzetti; due del «Sogno di Dante»; due del «Saluto di Beatrice». Gli studi separati per il «Sogno di Dante» e per la «Donna della finestra» sono numerosissimi. È facile quindi comprendere come egli, dotato di quel vasto genio, potesse poi riuscire perfetto.
+Egli aveva una teoria particolare del colorito. Per lui, diversamente dalla opinione della generalità dei pittori, la giusta posizione del verde e del bleu doveva risultare in un ottimo effetto all'occhio dello spettatore. Questa teoria, dinanzi alla quale uno meno ardito avrebbe indietreggiato, fu messa in pratica da lui, e con un successo pari soltanto all'ardire, nel quadro «Beatrice nega il saluto a Dante»8.
+La sposa è in bianco, coronata di fiori d'arancio, e sta in un angolo del quadro, figura secondaria nella pittura, com'è una figura secondaria nello scritto di Dante.
+Le figure principali, le donne e Beatrice, vestono abiti di lucentissimo verde e di oltremare. Dante è vestito di rosso ed ha il soppanno nero; la bambina, che porge i fiori, è vestita di giallo. Il quadro ha un'intonazione calda che fa sentire il sole ardente delle estati fiorentine. Ora il discordante insieme di queste luci e di questi colori è attenuato dalla grande arte del Rossetti, così che l'occhio si riposa in mezzo al quadro, su i colori meno ardenti di Beatrice e delle donne che l'accompagnano, dalle tonalità sfolgoranti del giallo, del rosso, del bianco che stanno alle estremità del quadro. Questo lavoro, l'acquarello nel quale il Rossetti ha riunito il più grande numero di figure, fu da lui terminato nel 1851 e ripetuto nel 1855-56, a olio, per l'amico suo John Ruskin.
+Ho detto altrove9 delle caratteristiche speciali all'acquarello inglese, e basterà qui che io accenni che la solidità del colorito, l'impasto frequente d'un colore su l'altro, dànno agli acquarelli dei maestri inglesi un carattere assolutamente diverso dal carattere cognito ed universale dell'acquarello. Bisogna bene conoscere e guardare attentamente per distinguere un acquarello da un quadro a olio; talvolta la sola cosa che li diversifica è, in quelli, l'assenza di lucido e la patina che è sempre in questi.
+Un altro quadro, ove questa ardita teoria del colore è vittoriosamente praticata, è il «Saluto di Beatrice a Dante». È inspirato a quel brano della Vita Nova:
+«E passando per una via volse gli occhi verso quella parte ove io ero molto pauroso e..... mi salutò virtuosamente tanto».
+Anche in questo dipinto Dante è in rosso col soppanno scuro, Beatrice in bianco con risvolti azzurri, la gentildonna che la precede è in giallo, quella che la segue in rosso-bruno, cupo. Anche qui il Rossetti ha adoperato quella sua grande arte nella distribuzione dei colori, per cui una grande armonia, come un riposo dolce degli occhi, risulta dal guardare i suoi quadri. Questo suo lavoro incominciato nel 1858 fu terminato un anno di poi e ripetuto nel 1864.
+Rossetti seguiva passo a passo la Vita Nova. Ogni fatto notevole, ogni incidente descritto dal Poeta inspira al Pittore una magnifica opera.
+Io non so se l'impressione che fanno a me i quadri del Rossetti, sia personale o se sia pure comune a tutti quelli che conoscono l'opera di Dante e guardano i quadri del pittore inglese. Io trovo un profondo sentimento dantesco anche in quelle pitture che per spirito e per soggetto s'allontanano estremamente dal ciclo della Vita Nova e dagli altri quadri inspirati a fatti della Divina Commedia.
+Nella «Lady Macbeth» io sento la terribile miseria della infelice che il rimorso strazia, e il «Out, damned spot! out, I say!»10 magistralmente reso nel quadro di Rossetti, mi fa pensare ai maledetti che, nella morta gora, si stracciano le carni11; e nella «Maddalena», la suggestiva testa di Cristo che, da una finestra, l'affascina con lo sguardo intensamente profondo, mi fa pensare al sorriso di San Bernardo12 incoraggiante Dante a volgere gli occhi in alto ed a pregare Maria.
+Se io dovessi definire esattamente questa mia sensazione, o darne una ragione apparentemente plausibile, forse non saprei, o, forse, dovrei scendere a tale minuzia d'analisi psichica che la dimostrazione apparirebbe più oscura del fatto semplicemente enunciato; è innegabile però che quel senso misterioso e indefinibile che sgorga dall'opera dantesca e viene a soggiogare l'anima umana, emana anche dall'opera del Rossetti e c'è parentela perfetta fra la Gentildonna cantata e quella dipinta; c'è similitudine d'origine e di tipo nell'Amore che va in veste di pellegrino, e nell'Amore che scende dagli alti cieli, passando attraverso le stelle e gli astri maggiori che illuminano la terra.
+Quella tendenza tutta sua e quella speciale caratteristica dell'anima trecentista del Rossetti, mirabilmente concorsero con le qualità pittoriche di lui a che l'opera sua fosse tale da integrare, in un'opera di grande sentimento e fattura, la grande opera del pensiero dantesco.
+Un punto di contatto significantissimo nella vita e nella importanza dell'opera del Poeta e del Pittore unisce l'italiano e l'inglese. La loro è opera d'Amore. A più di cinque secoli di distanza il Pittore intende attraverso lo spazio la voce del Poeta, e parla con lui. Egli fa sua l'opera dell'innamorato garzone fiorentino, e di quell'opera, con l'opera sua, ci fa sentire tutto il profondo grandioso mistero. Dinanzi alla «Beata Beatrix» noi pensiamo che forse la Beatrice, il cui nome poteva stare solamente insieme al numero perfetto, fu un sogno, un mistero di più con misteriose parole raccontato ad anime d'iniziati, una delle quali rivisse cinquecento anni più tardi per parlarne ancora.
+Ed anche pensiamo che quella
+«gloriosa donna..... la quale da molti fu chiamata Beatrice»
+era, in vita, come l'ha dipinta il pittore, soavissima, bella e pensosa; e che noi cerchiamo il mistero là dove non è, e che Dante amò veramente una fanciulla fiorentina che si chiamò Beatrice, e Rossetti dipinse l'Amore di Dante, Dante e la fanciulla sua, perchè il soggetto gli si offriva tale da tentare l'ardita e fervida mente d'un artista.
+Nel 1879 il Rossetti dipinse la «Donna della Finestra» per illustrare l'ultimo, quasi, degli episodi della Vita Nova;
+«Color d'amore e di pietà sembianti».
+Il pittore ha dato a questa figura un carattere diverso da quello dato a Beatrice. La testa di Beatrice è purissima; lo sguardo profondo, sereno e dolce ad un tempo rivela la vergine; la «Donna della finestra» è più umana, più vicina a noi. Sotto le vene delle bianchissime e delicate mani corre, ardente, il sangue e, negli occhi bellissimi spiranti una dolce pietà, si vela la passione. È questa veramente la Donna, la Bellezza che sola poteva far vacillare il grande; il purissimo amore di Dante per la sua Signora; che poteva quasi offuscarne la memoria nella mente del poeta; che sola, co' suoi bellissimi occhi, poteva attrarre tanto a sè gli occhi di lui, che egli n'era pentito e ancora, nel Purgatorio, sentiva il dolore della infedeltà commessa. È una delle più voluttuose figure dipinte dal Rossetti, e bisognava che così fosse, perchè Dante l'ha cantata così.
+Spesso il Rossetti volgeva l'anima alla Divina Commedia; era ancora lo spirito del grande fiorentino che lo tentava, e, in varie volte, ne ha dipinti alcuni episodi: «Paolo e Francesca» e il «Saluto di Beatrice nell'Eden».
+«Guardami ben: ben son ben son Beatrice!»13
+Ma nell'aprile del 1882, prima che fosse terminato il quadro «Salutatio Beatricis», la morte gli strappò dalla mano i pennelli, e Dante Gabriele Rossetti scese nella tomba gloriosa, portando seco, insoddisfatto, il desiderio carezzato tanti anni, di vedere pubblicata ‒ illustrata da lui ‒ la Vita Nova; il libro che gli aveva insegnato a poetare ed a dipingere d'Amore.
+A. Agresti.
+AVVERTENZA.
+Per questa edizione della «Vita nova» ci siamo valsi della lezione seguìta da Alessandro D'Ancona come di quella che, per essere stata scrupolosamente riscontrata su codici e stampe, è finora il più verace testo dell'aureo libro giovanile del divino poeta. le tavole sono state riprodotte in eliotipia dallo stabilimento danesi di roma.
+Incipit vita nova:
+
+In quella parte del libro della mia memoria, dinanzi alla quale poco si potrebbe leggere, si trova una rubrica la quale dice:
+INCIPIT VITA NOVA.
+Sotto la quale rubrica io trovo scritte le parole, le quali è mio intendimento d'assemprare in questo libello; e se non tutte, almeno la loro sentenzia.
+Nove fiate già, appresso al mio nascimento, era tornato lo cielo della luce quasi ad un medesimo punto, quanto alla sua propria girazione, quando alli miei occhi apparve prima la gloriosa donna della mia mente, la quale fu chiamata da molti Beatrice, i quali non sapeano che sì chiamare. Ella era già in questa vita stata tanto, che nel suo tempo lo cielo stellato era mosso verso la parte d'oriente delle dodici parti l'una d'un grado: sì che quasi dal principio del suo anno nono apparve a me, ed io la vidi quasi dalla fine del mio. E apparvemi vestita di nobilissimo colore, umile ed onesto sanguigno, cinta ed ornata alla guisa che alla sua giovanissima etade si convenìa. In quel punto dico veracemente che lo Spirito della Vita, lo quale dimora nella segretissima camera del core, cominciò a tremare sì fortemente, che apparia nelli menomi polsi orribilmente; e tremando disse queste parole: Ecce Deus fortior me, qui veniens dominabitur mihi. In quel punto lo Spirito animale, il quale dimora nell'alta camera, nella quale tutti li spiriti sensitivi portano le loro percezioni, si cominciò a maravigliare molto, e parlando spezialmente alli Spiriti del viso, disse queste parole: Apparuit jam beatitudo vestra. In quel punto lo Spirito naturale, il quale dimora in quella parte ove si ministra lo nutrimento nostro, cominciò a piangere, e disse queste parole: Heu miser! quia frequenter impeditus ero deinceps. D'allora innanzi dico ch'Amore signoreggiò l'anima mia, la quale fu sì tosto a lui disposata, e cominciò a prendere sopra me tanta sicurtade e tanta signoria, per la virtù che gli dava la mia imaginazione, che mi convenìa fare compiutamente tutti i suoi piaceri. Egli mi comandava molte volte, che io cercassi per vedere quest'angiola giovanissima: ond'io nella mia puerizia molte fiate l'andai cercando; e vedeala di sì nuovi e laudabili portamenti, che certo di lei si potea dire quella parola del poeta Omero: «Ella non parea figliuola d'uomo mortale, ma di Dio». Ed avvegna che la sua imagine, la quale continuamente meco stava, fosse baldanza d'Amore a signoreggiarmi, tuttavia era di sì nobile virtù, che nulla volta sofferse che Amore mi reggesse senza il fedele consiglio della ragione, in quelle cose là dove cotal consiglio fosse utile a udire. E però che soprastare alle passioni ed atti di tanta gioventudine pare alcuno parlare fabuloso, mi partirò da esse; e trapassando molte cose, le quali si potrebbero trarre dell'esemplo onde nascono queste, verrò a quelle parole, le quali sono scritte nella mia memoria sotto maggiori paragrafi.
+
+Poi che furono passati tanti dì, che appunto erano compiuti li nove anni appresso l'apparimento soprascritto di questa gentilissima, nell'ultimo di questi dì avvenne, che questa mirabile donna apparve a me vestita di colore bianchissimo, in mezzo di due gentili donne, le quali erano di più lunga etade; e passando per una via volse gli occhi verso quella parte dov'io ero molto pauroso; e per la sua ineffabile cortesia, la quale è oggi meritata nel grande secolo, mi salutò virtuosamente tanto, ch'e' mi parve allora vedere tutti i termini della beatitudine. L'ora, che lo suo dolcissimo salutare mi giunse, era fermamente nona di quel giorno: e però che quella fu la prima volta che le sue parole si mossero per venire alli miei orecchi, presi tanta dolcezza, che come inebriato mi partii dalle genti. E ricorsi al solingo luogo d'una mia camera, e puosimi a pensare di questa cortesissima; e pensando di lei, mi sopraggiunse un soave sonno, nel quale m'apparve una maravigliosa visione: che mi parea vedere nella mia camera una nebula di colore di fuoco, dentro dalla quale io discernea una figura d'uno signore, di pauroso aspetto a chi la guardasse: e pareami con tanta letizia, quanto a sè, che mirabil cosa era: e nelle sue parole dicea molte cose, le quali io non intendea se non poche; tra le quali io intendea queste: Ego dominus tuus. Nelle sue braccia mi parea vedere una persona dormire nuda, salvo che involta mi parea in un drappo sanguigno leggermente; la quale io riguardando molto intentivamente, conobbi ch'era la donna della salute, la quale m'avea lo giorno dinanzi degnato di salutare. E nell'una delle mani mi parea che questi tenesse una cosa, la quale ardesse tutta; e pareami che mi dicesse queste parole: Vide cor tuum. E quando egli era stato alquanto, pareami che disvegliasse questa che dormia; e tanto si sforzava per suo ingegno, che le facea mangiare quella cosa che in mano gli ardeva, la quale ella mangiava dubitosamente. Appresso ciò, poco dimorava che la sua letizia si convertia in amarissimo pianto: e così piangendo, si ricogliea questa donna nelle sue braccia, e con essa mi parea che se ne gisse verso il cielo: ond'io sostenea sì grande angoscia, che lo mio deboletto sonno non potè sostenere, anzi si ruppe, e fui disvegliato. E inmantanente cominciai a pensare; e trovai che l'ora, nella quale m'era questa visione apparita, era stata la quarta della notte: sì che appare manifestamente, ch'ella fu la prima ora delle nove ultime ore della notte. E pensando io a ciò che m'era apparito, proposi di farlo sentire a molti, i quali erano famosi trovatori in quel tempo: e con ciò fosse cosa ch'io avessi già veduto per me medesimo l'arte del dire parole per rima, proposi di fare un sonetto, nel quale io salutassi tutti li fedeli d'Amore; e pregandoli che giudicassero la mia visione, scrissi loro ciò ch'io avea nel mio sonno veduto; e cominciai allora questo Sonetto:
+A ciascun'alma presa e gentil core,
+Nel cui cospetto viene il dir presente,
+A ciò che mi riscrivan suo parvente,
+Salute in lor signor, cioè Amore.
+Già eran quasi ch'atterzate l'ore
+Del tempo ch'ogni stella n'è lucente,
+Quando m'apparve Amor subitamente,
+Cui essenza membrar mi dà orrore.
+Allegro mi sembrava Amor, tenendo
+Mio core in mano, e nelle braccia avea
+Madonna, involta in un drappo, dormendo.
+Poi la svegliava, e d'esto core ardendo
+Lei paventosa umilmente pascea:
+Appresso gir lo ne vedea piangendo.
+Questo Sonetto si divide in due parti: nella prima parte saluto, e domando risponsione; nella seconda, significo a che si dee rispondere. La seconda parte comincia quivi: Già eran.
+A questo Sonetto fu risposto da molti e di diverse sentenzie, tra li quali fu risponditore quegli, cui io chiamo primo de' miei amici; e disse allora un Sonetto lo quale comincia: Vedesti al mio parere ogni valore. E questo fu quasi il principio dell'amistà tra lui e me, quando egli seppe ch'io era quegli che gli avea ciò mandato. Lo verace giudicio del detto sogno non fu veduto allora per alcuno: ma ora è manifesto alli più semplici.
+Da questa visione innanzi cominciò il mio Spirito naturale ad essere impedito nella sua operazione, però che l'anima era tutta data nel pensare di questa gentilissima; ond'io divenni in picciolo tempo poi di sì frale e debole condizione, che a molti amici pesava della mia vista: e molti pieni d'invidia si procacciavano di sapere di me quello ch'io voleva del tutto celare ad altrui. Ed io accorgendomi del malvagio addomandare che mi faceano, per la volontà d'Amore, il quale mi comandava secondo il consiglio della ragione, rispondea loro, che Amore era quegli che così m'avea governato: dicea d'Amore, però che io portava nel viso tante delle sue insegne, che questo non si potea ricoprire. E quando mi domandavano: «Per cui t'ha così distrutto questo Amore?» ed io sorridendo li guardava, e nulla dicea loro.
+Un giorno avvenne, che questa gentilissima sedea in parte, ove s'udiano parole della Reina della gloria, ed io era in luogo, dal quale vedea la mia beatitudine; e nel mezzo di lei e di me, per la retta linea, sedea una gentile donna di molto piacevole aspetto, la quale mi mirava spesse volte, maravigliandosi del mio sguardare, che parea che sopra lei terminasse; onde molti s'accorsero del suo mirare. E in tanto vi fu posto mente, che, partendomi di questo luogo, mi sentii dire appresso: «Vedi come cotale donna distrugge la persona di costui». E nominandola, intesi che diceano di colei, che mezza era stata nella linea retta che movea dalla gentilissima Beatrice, e terminava negli occhi miei. Allora mi confortai molto, assicurandomi che il mio segreto non era comunicato, lo giorno, altrui per mia vista: ed inmantanente pensai di fare di questa gentile donna ischermo della veritade; e tanto ne mostrai in poco di tempo, che il mio segreto fu creduto sapere dalle più persone che di me ragionavano. Con questa donna mi celai alquanti anni e mesi; e per più fare credente altrui, feci per lei certe cosette per rima, le quali non è mio intendimento di scrivere qui, se non in quanto facesse a trattare di quella gentilissima Beatrice: e però le lascerò tutte, salvo che alcuna ne scriverò, che pare che sia loda di lei.
+Dico che in questo tempo, che questa donna era ischermo di tanto amore, quanto dalla mia parte, mi venne una volontà di voler ricordare il nome di quella gentilissima, e d'accompagnarlo di molti nomi di donne, e specialmente del nome di questa gentile donna; e presi i nomi di sessanta le più belle donne della cittade, ove la mia donna fu posta dall'altissimo Sire, e composi una epistola sotto forma di Serventese, la quale io non scriverò: e non n'avrei fatta menzione, se non per dire quello che, componendola, maravigliosamente addivenne: cioè, che in alcuno altro numero non sofferse il nome della mia donna stare, se non in sul nono, tra' nomi di queste donne.
+La donna, con la quale io avea tanto tempo celata la mia volontà, convenne che si partisse della sopradetta cittade, e andasse in paese molto lontano: per che io, quasi sbigottito della bella difesa che mi era venuta meno, assai me ne sconfortai, più che io medesimo non avrei creduto dinanzi. E pensando che, se della sua partita io non parlassi alquanto dolorosamente, le persone sarebbero accorte più tosto del mio nascondere, proposi adunque di farne alcuna lamentanza in un Sonetto, lo quale io scriverò; perciò che la mia donna fu immediata cagione di certe parole, che nel Sonetto sono, siccome appare a chi lo 'ntende: e allora dissi questo Sonetto:
+O voi, che per la via d'Amor passate,
+Attendete, e guardate
+S'egli è dolore alcun, quanto il mio, grave:
+E priego sol, ch'udir mi sofferiate;
+E poi imaginate
+S'io son d'ogni dolore ostello e chiave.
+Amor, non già per mia poca bontate,
+Ma per sua nobiltate,
+Mi pose in vita sì dolce e soave,
+Ch'i' mi sentia dir dietro spesse fiate:
+Deh! per qual dignitate
+Così leggiadro questi lo cor have?
+Ora ho perduta tutta mia baldanza,
+Che si movea d'amoroso tesoro;
+Ond'io pover dimoro
+In guisa, che di dir mi vien dottanza.
+Sì che, volendo far come coloro,
+Che per vergogna celan lor mancanza,
+Di fuor mostro allegranza,
+E dentro dallo cor mi struggo e ploro.
+Questo sonetto ha due parti principali: che nella prima intendo chiamare i fedeli d'Amore per quelle parole di Jeremia profeta: O vos omnes, qui transitis per viam, attendite et videte, si est dolor sicut dolor meus; e pregare che mi sofferino d'udire. Nella seconda narro là ove Amore m'avea posto, con altro intendimento che l'estreme parti del Sonetto non mostrano: e dico ciò che io ho perduto. La seconda parte comincia quivi: Amor non già.
+Appresso il partire di questa gentil donna, fu piacere del Signore degli angeli di chiamare alla sua gloria una donna giovane e di gentile aspetto molto, la quale fu assai graziosa in questa sopraddetta cittade; lo cui corpo io vidi giacere senza anima in mezzo di molte donne, le quali piangeano assai pietosamente. Allora, ricordandomi che già l'aveva veduta fare compagnia a quella gentilissima, non potei sostenere alquante lagrime; anzi piangendo mi proposi di dire alquante parole della sua morte in guiderdone di ciò, che alcuna fiata l'avea veduta con la mia donna. E di ciò toccai alcuna cosa nell'ultima parte delle parole che io ne dissi, siccome appare manifestamente a chi le 'ntende: e dissi allora questi due Sonetti, dei quali comincia il primo: Piangete amanti; il secondo: Morte villana.
+Piangete, amanti, poi che piange Amore,
+Udendo qual cagion lui fa plorare:
+Amor sente a pietà donne chiamare,
+Mostrando amaro duol per gli occhi fuore;
+Perchè villana Morte in gentil core
+Ha messo il suo crudele adoperare,
+Guastando ciò che al mondo è da lodare
+In gentil donna, fuora dell'onore.
+Udite quant'Amor le fece orranza;
+Ch'io 'l vidi lamentare in forma vera
+Sovra la morta imagine avvenente;
+E riguardava invêr lo ciel sovente,
+Ove l'alma gentil già locata era,
+Che donna fu di sì gaia sembianza.
+Questo primo Sonetto si divide in tre parti. Nella prima chiamo e sollecito i fedeli d'Amore a piangere; e dico che lo signore loro piange, e che udendo la cagione perch'e' piange, si acconcino più ad ascoltarmi; nella seconda, narro la cagione; nella terza, parlo d'alcuno onore, che Amore fece a questa donna. La seconda comincia quivi: Amor sente; la terza quivi: Udite.
+Morte villana, di pietà nimica,
+Di dolor madre antica,
+Giudicio incontestabile, gravoso,
+Poi c'hai data materia al cor doglioso
+Ond'io vada pensoso,
+Di te biasmar la lingua s'affatica.
+E se di grazia ti vo' far mendica,
+Convenesi ch'io dica
+Lo tuo fallir, d'ogni torto tortoso;
+Non però che alla gente sia nascoso,
+Ma per farne cruccioso
+Chi d'Amor per innanzi si nutrica.
+Dal secolo hai partita cortesia,
+E, ciò che 'n donna è da pregiar, virtute
+In gaia gioventute:
+Distrutta hai l'amorosa leggiadria.
+Più non vo' discovrir qual donna sia,
+Che per le proprietà sue conosciute:
+Chi non merta salute,
+Non speri mai d'aver sua compagnia.
+Questo Sonetto si divide in quattro parti: nella prima, chiamo la Morte per certi suoi nomi propri; nella seconda parlando a lei, dico la ragione perch'io mi movo a biasimarla; nella terza, la vitupero; nella quarta, mi volgo a parlare a indiffinita persona, avvegna che quanto al mio intendimento sia diffinita. La seconda parte comincia quivi: Poi c'hai data; la terza quivi: E se di grazia; la quarta quivi: Chi non merta.
+Appresso la morte di questa donna alquanti dì, avvenne cosa, per la quale mi convenne partire della sopradetta cittade, ed ire verso quelle parti, dov'era la gentil donna ch'era stata mia difesa, avvegna che non tanto lontano fosse lo termine del mio andare, quanto ella era. E tutto che io fossi alla compagnia di molti, quanto alla vista, l'andare mi dispiacea sì, che quasi li sospiri non poteano disfogare l'angoscia, che il cuore sentia, però ch'io mi dilungava dalla mia beatitudine. E però lo dolcissimo signore, il quale mi signoreggiava per virtù della gentilissima donna, nella mia imaginazione apparve come peregrino leggiermente vestito, e di vili drappi. Egli mi parea sbigottito, e guardava la terra, salvo che talvolta mi parea, che li suoi occhi si volgessero ad uno fiume bello e corrente e chiarissimo, il quale sen gìa lungo questo cammino là ove io era. A me parve che Amore mi chiamasse, e dicessemi queste parole: «Io vegno da quella donna, la quale è stata lunga tua difesa, e so che il suo rivenire non sarà; e però quel cuore ch'io ti facea avere da lei, io l'ho meco, e portolo a donna, la quale sarà tua difensione come questa era»; e nomollami sì, ch'io la conobbi bene. «Ma tuttavia di queste parole, ch'io t'ho ragionate, se alcuna ne dicessi, dille per modo che per loro non si discernesse lo simulato amore che hai mostrato a questa, e che ti converrà mostrare ad altrui». E dette queste parole, disparve tutta questa mia imaginazione subitamente, per la grandissima parte, che mi parve ch'Amore mi desse di sè; e, quasi cambiato nella vista mia, cavalcai quel giorno pensoso molto, e accompagnato da molti sospiri. Appresso lo giorno, cominciai questo Sonetto:
+Cavalcando l'altr'ieri per un cammino,
+Pensoso dell'andar, che mi sgradia,
+Trovai Amor nel mezzo della via,
+In abito leggier di peregrino.
+Nella sembianza mi parea meschino
+Come avesse perduta signoria;
+E sospirando pensoso venia,
+Per non veder la gente, a capo chino.
+Quando mi vide, mi chiamò per nome,
+E disse: Io vegno di lontana parte,
+Dov'era lo tuo cor per mio volere;
+E recolo a servir novo piacere.
+Allora presi di lui sì gran parte,
+Ch'egli disparve, e non m'accorsi come.
+Questo Sonetto ha tre parti: nella prima parte dico siccome io trovai Amore, e qual mi parea; nella seconda, dico quello ch'egli mi disse, avvegna che non compiutamente, per tema ch'io avea di non scovrire lo mio segreto; nella terza, dico com'egli disparve. La seconda comincia quivi: Quando mi vide; la terza quivi: Allora presi.
+Appresso la mia tornata, mi misi a cercare di questa donna, che lo mio signore m'avea nominata nel cammino de' sospiri. Ed acciò che il mio parlare sia più brieve, dico che in poco tempo la feci mia difesa tanto, che troppa gente ne ragionava oltra li termini della cortesia; onde molte fiate mi pesava duramente. E per questa cagione, cioè di questa soperchievole voce, che parea che m'infamasse viziosamente, quella gentilissima, la quale fu distruggitrice di tutti i vizj e reina della virtù, passando per alcuna parte mi negò il suo dolcissimo salutare, nel quale stava tutta la mia beatitudine. E uscendo alquanto del proposito presente, voglio dare ad intendere quello che il suo salutare in me virtuosamente operava.
+Dico, che quando ella apparia da parte alcuna, per la speranza della mirabile salute nullo nemico mi rimanea, anzi mi giugnea una fiamma di caritade, la quale mi facea perdonare a chiunque m'avesse offeso: e chi allora m'avesse addimandato di cosa alcuna, la mia risponsione sarebbe stata solamente: «Amore» con viso vestito d'umiltà. E quando ella fosse alquanto propinqua al salutare, uno Spirito d'amore, distruggendo tutti gli altri spiriti sensitivi, pingea fuori li deboletti Spiriti del viso, e dicea loro: «Andate ad onorare la donna vostra»; ed egli si rimanea nel loco loro. E chi avesse voluto conoscere Amore, far lo potea mirando lo tremore degli occhi miei. E quando questa gentilissima donna salutava, non che Amore fosse tal mezzo, che potesse obumbrare a me la intollerabile beatitudine, ma egli quasi per soperchio di dolcezza divenia tale, che lo mio corpo, lo quale era tutto allora sotto il suo reggimento, molte volte si movea come cosa grave inanimata. Sicchè appare manifestamente che nelle sue salute abitava la mia beatitudine, la quale molte volte passava e redundava la mia capacitade.
+Ora, tornando al proposito, dico che poi che la mia beatitudine mi fu negata, mi giunse tanto dolore, che partitomi dalle genti, in solinga parte andai a bagnare la terra d'amarissime lagrime: e poi che alquanto mi fu sollevato questo lagrimare, misimi nella mia camera, là dove io potea lamentarmi senza essere udito. E quivi chiamando misericordia alla donna della cortesia, e dicendo: «Amore, aiuta il tuo fedele», m'addormentai come un pargoletto battuto lagrimando. Avvenne quasi nel mezzo del mio dormire, che mi parve vedere nella mia camera lungo me sedere un giovane vestito di bianchissime vestimenta; e, pensando molto quanto alla vista sua, mi riguardava là ov'io giacea; e quando m'avea guardato alquanto, pareami che sospirando mi chiamasse, e diceami queste parole: Fili mi, tempus est ut prætermittantur simulacra nostra. Allora mi parea ch'io 'l conoscessi, però che mi chiamava così come assai fiate nelli miei sospiri m'avea già chiamato. E riguardandolo parvemi che piagnesse pietosamente, e parea che attendesse da me alcuna parola: ond'io assicurandomi, cominciai a parlare così con esso: «Signore della nobiltade, perchè piagni tu?» E quegli mi dicea queste parole: Ego tamquam centrum circuli, cui simili modo habent circumferentiæ partes; tu autem non sic. Allora pensando alle sue parole, mi parea che mi avesse parlato molto oscuro, sì che io mi sforzava di parlare, e diceagli queste parole: «Ch'è ciò, Signore, che tu mi parli con tanta scuritade?». E quegli mi dicea in parole volgari: «Non dimandare più che utile ti sia». E però cominciai con lui a ragionare della salute, la quale mi fu negata, e domanda'lo della cagione; onde in questa guisa da lui mi fu risposto: «Quella nostra Beatrice udì da certe persone, di te ragionando, che la donna, la quale io ti nominai nel cammino de' sospiri, ricevea da te alcuna noia. E però questa gentilissima, la quale è contraria di tutte le noie, non degnò salutare la tua persona, temendo non fosse noiosa. Onde conciossiacosa che veracemente sia conosciuto per lei alquanto lo tuo segreto per lunga consuetudine, voglio che tu dichi certe parole per rima, nelle quali tu comprenda la forza ch'io tegno sovra te per lei, e come tu fosti suo tostamente dalla tua puerizia. E di ciò chiama testimonio colui che 'l sa: e come tu prieghi lui che gliele dica; ed io, che sono quello, volentieri le ne ragionerò; e per questo sentirà ella la tua volontade, la quale sentendo, conoscerà le parole degl'ingannati. Queste parole fa che sieno quasi uno mezzo, sì che tu non parli a lei immediatamente, chè non è degno. E non le mandare in parte alcuna senza me, ove potessero essere intese da lei; ma falle adornare di soave armonia, nella quale io sarò tutte le volte che farà mestieri». E dette queste parole, disparve, e lo mio sonno fu rotto. Ond'io ricordandomi, trovai che questa visione m'era apparita nella nona ora del dì; e anzi che io uscissi da questa camera, proposi di fare una Ballata, nella quale seguitassi ciò che 'l mio Signore m'avea imposto, e feci poi questa Ballata:
+Ballata, io vo' che tu ritruovi Amore,
+E con lui vadi a Madonna davanti,
+Sì che la scusa mia, la qual tu canti,
+Ragioni poi con lei lo mio Signore.
+Tu vai, Ballata, sì cortesemente,
+Che, senza compagnia,
+Dovresti avere in tutte parti ardire:
+Ma, se tu vuogli andar securamente,
+Ritruova l'Amor pria;
+Chè forse non è buon sanza lui gire:
+Però che quella, che ti debbe udire,
+Se, com'io credo, è invêr di me adirata,
+E tu di lui non fussi accompagnata,
+Leggieramente ti farìa disnore.
+Con dolce suono, quando se' con lui,
+Comincia este parole
+Appresso ch'averai chiesta pietate:
+Madonna, quegli che mi manda a vui,
+Quando vi piaccia, vuole,
+Se egli ha scusa, che la m'intendiate.
+Amore è quei, che per vostra beltate
+Lo face, come vuol, vista cangiare:
+Dunque, perchè gli fece altra guardare
+Pensatel voi, dacch'e' non mutò 'l core.
+Dille: Madonna, lo suo cuore è stato
+Con sì fermata fede,
+Ch'a voi servir l'ha pronto ogni pensero:
+Tosto fu vostro, e mai non s'è smagato.
+Se ella non ti crede,
+Di' che 'n domandi Amor, che sa lo vero:
+Ed alla fin le fa umil preghiero,
+Lo perdonare se le fosse a noia,
+Che mi comandi per messo ch'i' moia;
+E vedrassi ubidir bon servidore.
+E di' a colui ch'è d'ogni pietà chiave,
+Avanti che sdonnei,
+Che le sappia contar mia ragion buona:
+Per grazia della mia nota soave
+Riman tu qui con lei,
+E del tuo servo, ciò che vuol, ragiona;
+E s'ella per tuo priego gli perdona,
+Fa' che gli annunzi in bel sembiante pace.
+Gentil Ballata mia, quando ti piace,
+Muovi in quel punto, che tu n'aggi onore.
+Questa Ballata in tre parti si divide: nella prima, dico a lei ov'ella vada, e confortola però che vada più sicura; e dico nella cui compagnia si metta, se vuole securamente andare, e senza pericolo alcuno; nella seconda, dico quello che a lei s'appartiene di fare intendere; nella terza, la licenzio del gire quando vuole, raccomandando lo suo movimento nelle braccia della fortuna. La seconda parte comincia quivi: Con dolce suono; la terza quivi: Gentil Ballata. Potrebbe già l'uomo opporre contro a me e dire che non sapesse a cui fosse il mio parlare in seconda persona, però che la Ballata non è altro, che queste parole ch'io parlo: e però dico che questo dubbio io lo intendo solvere e dichiarare in questo libello ancora in parte più dubbiosa: ed allora intenderà qui chi più dubbia, o chi qui volesse opporre, in quello modo.
+Appresso di questa soprascritta visione, avendo già dette le parole, che Amore m'avea imposte a dire, m'incominciarono molti e diversi pensamenti a combattere e a tentare, ciascuno quasi indefensibilmente: tra li quali pensamenti, quattro m'ingombravano più il riposo della vita. L'uno dei quali era questo: «Buona è la signoria d'Amore, però che trae lo 'ntendimento del suo fedele da tutte le vili cose». L'altro era questo: «Non buona è la signoria d'Amore, però che quanto lo suo fedele più fede gli porta, tanto più gravi e dolorosi punti gli conviene passare». L'altro era questo: «Lo nome d'Amore è sì dolce a udire, che impossibile mi pare, che la sua propria operazione sia nelle più cose altro che dolce, conciossiacosa che i nomi seguitino le nominate cose, siccome è scritto: Nomina sunt consequentia rerum». Lo quarto era questo: «La donna per cui Amore ti strigne così, non è come le altre donne, che leggiermente si mova del suo core». E ciascuno mi combattea tanto, che mi facea quasi stare come colui, che non sa per qual via pigli il suo cammino, che vuole andare, e non sa onde si vada. E se io pensava di voler cercare una comune via di costoro, cioè là ove tutti si accordassero, questa via era molto inimica verso di me, cioè di chiamare e di mettermi nelle braccia della Pietà. Ed in questo stato dimorando, mi giunse volontà di scriverne parole rimate; e dissine allora questo Sonetto:
+Tutti li miei pensier parlan d'amore:
+Ed hanno in lor sì gran varïetate,
+Ch'altro mi fa voler sua potestate,
+Altro folle ragiona il suo valore.
+Altro sperando m'apporta dolzore;
+Altro pianger mi fa spesse fïate;
+E sol s'accordano in chieder pietate,
+Tremando di paura ch'è nel core.
+Ond'io non so da qual matera prenda;
+E vorrei dire, e non so che mi dica:
+Così mi truovo in amorosa erranza.
+E se con tutti vo' fare accordanza,
+Convenemi chiamar la mia nemica,
+Madonna la Pietà, che mi difenda.
+Questo Sonetto in quattro parti si può dividere: nella prima, dico e propongo che tutti li miei pensieri sono d'Amore; nella seconda, dico che sono diversi, e narro la loro diversitade; nella terza, dico in che tutti pare che s'accordino; nella quarta, dico che, volendo dire d'Amore, non so da qual parte pigli matera; e se la voglio pigliare da tutti, conviene che io chiami la mia nemica, madonna la Pietà. Dico madonna, quasi per isdegnoso modo di parlare. La seconda parte comincia quivi: Ed hanno in lor; la terza quivi: E sol s'accordan; la quarta: Ond'io non so.
+
+Appresso la battaglia delli diversi pensieri, avvenne che questa gentilissima venne in parte, ove molte donne gentili erano adunate; alla qual parte io fui condotto per amica persona, credendosi fare a me gran piacere in quanto mi menava là dove tante donne mostravano le loro bellezze. Ond'io, quasi non sapendo a che io fossi menato, e fidandomi nella persona, la quale un suo amico all'estremità della vita condotto avea, dissi a lui: «Perchè semo noi venuti a queste donne?» Allora quegli mi disse: «Per fare sì ch'elle sieno degnamente servite». E lo vero è, che adunate quivi erano alla compagnia d'una gentil donna, che disposata era lo giorno; e però, secondo la usanza della sopradetta cittade, conveniva che le facessero compagnia nel primo sedere alla mensa nella magione del suo novello sposo. Sì che io, credendomi far il piacere di questo amico, proposi di stare al servigio delle donne nella sua compagnia. E nel fine del mio proponimento mi parve sentire un mirabile tremore incominciare nel mio petto dalla sinistra parte, e distendersi di subito per tutte le parti del mio corpo. Allora dico che io poggiai la mia persona simulatamente ad una pintura, la quale circondava questa magione; e temendo non altri si fosse accorto del mio tremare, levai gli occhi, e mirando le donne, vidi tra loro la gentilissima Beatrice. Allora furono sì distrutti li miei Spiriti per la forza che Amore prese veggendosi in tanta propinquitade alla gentilissima donna, che non mi rimase in vita più che gli Spiriti del viso; ed ancor questi rimasero fuori de' loro strumenti, però che Amore volea stare nel loro nobilissimo luogo per vedere la mirabile donna. E avvegna ch'io fossi altro che prima, molto mi dolea di questi Spiritelli, che si lamentavano forte, e diceano: «Se questi non ci sfolgorasse così fuori del nostro luogo, noi potremmo stare a vedere la maraviglia di questa donna, così come stanno gli altri nostri pari». Io dico che molte di queste donne, accorgendosi della mia trasfigurazione, si cominciarono a maravigliare; e ragionando si gabbavano di me con questa gentilissima: onde, lo ingannato amico mi prese per la mano, e traendomi fuori della veduta di queste donne, mi domandò che io avessi. Allora io riposato alquanto, e resurressiti li morti Spiriti miei, e li discacciati rivenuti alle loro possessioni, dissi a questo mio amico queste parole: «Io ho tenuti i piedi in quella parte della vita, di là dalla quale non si può ire più per intendimento di ritornare». E partitomi da lui, mi ritornai nella camera delle lagrime, nella quale, piangendo e vergognandomi, fra me stesso dicea: «Se questa donna sapesse la mia condizione, io non credo che così gabbasse la mia persona, anzi credo che molta pietà le ne verrebbe». E in questo pianto stando, proposi di dire parole, nelle quali, a lei parlando, significassi la cagione del mio trasfiguramento, e dicessi che io so bene ch'ella non è saputa, e che se fosse saputa, io credo che pietà ne giugnerebbe altrui: e propuosele di dire, desiderando che venissero per avventura nella sua audienza; e allora dissi questo Sonetto:
+Con l'altre donne mia vista gabbate,
+E non pensate, donna, onde si mova
+Ch'io vi rassembri sì figura nova
+Quando riguardo la vostra biltate.
+Se lo saveste, non porrìa Pietate
+Tener più contra me l'usata prova;
+Chè quando Amor sì presso a voi mi trova,
+Prende baldanza e tanta sicurtate,
+Ch'el fier tra' mïei Spirti paurosi,
+E quale uccide, e qual pinge di fuora,
+Sì ch'ei solo rimane a veder vui;
+Ond'io mi cangio in figura d'altrui;
+Ma non sì, ch'io non senta bene allora
+Gli guai degli scacciati tormentosi.
+Questo Sonetto non divido io in parti, perchè la divisione non si fa se non per aprire la sentenzia della cosa divisa: onde, conciossiacosa che, per la ragionata cagione, assai sia manifesto, non ha mestieri di divisione. Vero è che tra le parole, ove si manifesta la cagione di questo Sonetto, si trovano dubbiose parole; cioè quando dico ch'Amore uccide tutti i miei Spiriti, e li visivi rimangono in vita, salvo che fuori degli strumenti loro. E questo dubbio è impossibile a solvere a chi non fosse in simile grado fedele d'Amore; ed a coloro che vi sono, è manifesto ciò che solverebbe le dubitose parole: e però non è bene a me dichiarare cotale dubitazione, acciò che lo mio parlare sarebbe indarno, ovvero di soperchio.
+Appresso la nuova trasfigurazione mi giunse un pensamento forte, lo quale poco si partìa da me; anzi continuamente mi riprendea, ed era di cotale ragionamento meco: «Poscia che tu pervieni a così schernevole vista quando tu se' presso di questa donna, perchè pur cerchi di veder lei? Ecco che se tu fossi domandato da lei, che avresti tu da rispondere? ponendo che tu avessi libera ciascuna tua virtude, in quanto tu le rispondessi». Ed a questo rispondea un altro umile pensiero, e dicea: «Se io non perdessi le mie virtudi, e fossi libero tanto ch'io potessi rispondere, io le direi, che sì tosto com'io imagino la sua mirabil bellezza, sì tosto mi giugne un desiderio di vederla, lo quale è di tanta virtude, che uccide e distrugge nella mia memoria ciò che contra lui si potesse levare; e però non mi ritraggono le passate passioni di cercare la veduta di costei». Ond'io, mosso da cotali pensamenti, proposi di dire certe parole, nelle quali, scusandomi a lei di cotal riprensione, ponessi anche di quello che mi addiviene presso di lei; e dissi questo Sonetto:
+Ciò che m'incontra, nella mente more
+Quando vegno a veder voi, bella gioia,
+E quand'io vi son presso, sento Amore,
+Che dice: Fuggi, se 'l perir t'è noia.
+Lo viso mostra lo color del core,
+Che, tramortendo, dovunque s'appoia;
+E per l'ebrïetà del gran tremore
+Le pietre par che gridin: Moia, moia.
+Peccato face chi allor mi vide,
+Se l'alma sbigottita non conforta,
+Sol dimostrando che di me gli doglia,
+Per la pietà, che 'l vostro gabbo uccide,
+La qual si cria nella vista morta
+Degli occhi, c'hanno di lor morte voglia.
+Questo Sonetto si divide in due parti: nella prima, dico la cagione, per che non mi tegno di gire presso a questa donna; nella seconda, dico quello che m'addiviene per andare presso di lei; e comincia questa parte quivi: E quando io vi son presso. E anche si divide questa seconda parte in cinque, secondo cinque diverse narrazioni: chè nella prima dico quello che Amore, consigliato dalla ragione, mi dice quando le son presso; nella seconda, manifesto lo stato del core per esemplo del viso; nella terza, dico siccome ogni sicurtade mi vien meno; nella quarta, dico che pecca quegli che non mostra pietà di me, acciò che mi sarebbe alcun conforto; nell'ultima, dico perchè altri dovrebbe aver pietà, cioè per la pietosa vista, che negli occhi mi giugne; la qual vista pietosa è distrutta, cioè non pare altrui, per lo gabbare di questa donna, la quale trae a sua simile operazione coloro, che forse vedrebbono questa pietà. La seconda parte comincia quivi: Lo viso mostra; la terza: E per l'ebrïetà; la quarta: Peccato face; la quinta: Per la Pietà.
+
+Appresso ciò che io dissi questo Sonetto, mi mosse una volontà di dire anche parole, nelle quali dicessi quattro cose ancora sopra il mio stato, le quali non mi parea che fossero manifestate ancora per me. La prima delle quali si è, che molte volte io mi dolea, quando la mia memoria movesse la fantasia ad imaginare quale Amor mi facea; la seconda si è, che Amore spesse volte di subito m'assalìa sì forte, che in me non rimanea altro di vita se non un pensiero, che parlava di questa donna; la terza si è, che quando questa battaglia d'Amore mi pugnava così, io mi movea, quasi discolorito tutto, per veder questa donna, credendo che mi difendesse la sua veduta da questa battaglia, dimenticando quello che per appropinquare a tanta gentilezza m'addivenia; la quarta si è, come cotal veduta non solamente non mi difendea, ma finalmente disconfiggeva la mia poca vita; e però dissi questo Sonetto:
+Spesse fïate vegnonmi alla mente
+L'oscure qualità ch'Amor mi dona;
+E vienmene pietà sì, che sovente
+Io dico: lasso! avvien egli a persona?
+Ch'Amor m'assale subitanamente
+Sì, che la vita quasi m'abbandona:
+Campami un spirto vivo solamente,
+E quei riman, perchè di voi ragiona.
+Poscia mi sforzo, chè mi voglio atare;
+E così smorto, e d'ogni valor vôto,
+Vegno a vedervi, credendo guarire:
+E se io levo gli occhi per guardare,
+Nel cor mi si comincia uno tremoto,
+Che fa de' polsi l'anima partire.
+Questo Sonetto si divide in quattro parti, secondo che quattro cose sono in esso narrate: e però che sono esse ragionate di sopra, non m'intrametto se non di distinguere le parti per li loro cominciamenti: onde dico che la seconda parte comincia quivi: Ch'Amor; la terza quivi: Poscia mi sforzo; la quarta: E se io levo.
+Poi che io dissi questi tre Sonetti, ne' quali parlai a questa donna, però che furo narratori di tutto quasi lo mio stato, credendomi tacere e non dir più, però che mi parea avere di me assai manifestato, avvegna che sempre poi tacessi di dire a lei, a me convenne ripigliare materia nova e più nobile che la passata. E però che la cagione della nova materia è dilettevole a udire, la dirò quanto potrò più brevemente.
+Conciossiacosa che per la vista mia molte persone avessero compreso lo segreto del mio cuore, certe donne, le quali adunate s'erano, dilettandosi l'una nella compagnia dell'altra, sapeano bene lo mio cuore, perchè ciascuna di loro era stata a molte mie sconfitte. Ed io passando presso di loro, sì come dalla fortuna menato, fui chiamato da una di queste gentili donne; e quella, che m'avea chiamato, era donna di molto leggiadro parlare. Sì che quando io fui giunto dinanzi da loro, e vidi bene che la mia gentilissima donna non era tra esse, rassicurandomi le salutai, e domandai che piacesse loro. Le donne erano molte, tra le quali n'avea certe che si rideano tra loro. Altre v'erano, che guardavanmi aspettando che io dovessi dire. Altre v'erano che parlavano tra loro, delle quali una volgendo gli occhi verso me, e chiamandomi per nome, disse queste parole: «A che fine ami tu questa tua donna, poi che tu non puoi la sua presenza sostenere? Dilloci, chè certo il fine di cotale amore conviene che sia novissimo». E poi che m'ebbe dette queste parole, non solamente ella, ma tutte le altre cominciaro ad attendere in vista la mia risponsione. Allora dissi loro queste parole: «Madonne, lo fine del mio amore fu già il saluto di questa donna, forse di cui voi intendete; ed in quello dimorava la beatitudine, ch'è 'l fine di tutti li miei disiri. Ma poi che le piacque di negarlo a me, lo mio signore Amore, la sua mercede, ha posta tutta la mia beatitudine in quello, che non mi puote venir meno». Allora queste donne cominciaro a parlare tra loro; e sì come talor vedemo cadere l'acqua mischiata di bella neve, così mi parea vedere le loro parole uscire mischiate di sospiri. E poi che alquanto ebbero parlato tra loro, anche questa donna mi disse, che prima m'avea parlato, queste parole: «Noi ti preghiamo, che tu ne dichi ove sta questa tua beatitudine». Ed io rispondendole, dissi cotanto: «In quelle parole che lodano la donna mia». Ed ella rispose: «Se tu ne dicessi vero, quelle parole che tu n'hai dette notificando la tua condizione, avresti tu operate con altro intendimento». Ond'io pensando a queste parole, quasi vergognandomi mi partii da loro; e venìa dicendo tra me medesimo: «Poi che è tanta beatitudine in quelle parole che lodano la mia donna, perchè altro parlare è stato il mio?» E però proposi di prendere per materia del mio parlare sempre mai quello che fosse loda di questa gentilissima; e pensando a ciò molto, pareami avere impresa troppo alta materia, quanto a me, sì che non ardìa di cominciare; e così dimorai alquanti dì, con desiderio di dire e con paura di cominciare.
+Avvenne poi che, passando per un cammino, lungo il quale correva un rivo chiaro molto, a me giunse tanta volontà di dire, che cominciai a pensare il modo ch'io tenessi; e pensai che parlare di lei non si conveniva, se non che io parlassi a donne in seconda persona; e non ad ogni donna, ma solamente a coloro che sono gentili, e non sono pur femmine. Allora dico che la mia lingua parlò quasi come per sè stessa mossa, e disse: Donne ch'avete intelletto d'amore. Queste parole io riposi nella mente con grande letizia, pensando di prenderle per mio cominciamento: onde poi ritornato alla sopradetta cittade, e pensando alquanti dì, cominciai una Canzone con questo cominciamento, ordinata nel modo che si vedrà di sotto nella sua divisione. La Canzone comincia così:
+Donne, ch'avete intelletto d'amore,
+Io vo' con voi della mia donna dire;
+Non perch'io creda sua laude finire,
+Ma ragionar per isfogar la mente.
+Io dico che, pensando il suo valore,
+Amor sì dolce mi si fa sentire,
+Che, s'io allora non perdessi ardire,
+Farei, parlando, innamorar la gente;
+Ed io non vo' parlar sì altamente,
+Che divenissi per temenza vile:
+Ma tratterò del suo stato gentile,
+A rispetto di lei leggeramente,
+Donne e donzelle amorose, con vui,
+Chè non è cosa da parlarne altrui.
+Angelo chiama in divino intelletto,
+E dice: Sire, nel mondo si vede
+Maraviglia nell'atto, che procede
+Da un'anima, che fin quassù risplende.
+Lo cielo, che non have altro difetto
+Che d'aver lei, al suo Signor la chiede,
+E ciascun santo ne grida mercede.
+Sola Pietà nostra parte difende;
+Chè parla Iddio, che di madonna intende:
+Diletti miei, or sofferite in pace,
+Che vostra speme sie quanto mi piace
+Là, ov'è alcun che perder lei s'attende,
+E che dirà nell'inferno a' malnati:
+Io vidi la speranza de' beati.
+Madonna è disiata in l'alto cielo:
+Or vo' di sua virtù farvi sapere.
+Dico: qual vuol gentil donna parere
+Vada con lei; chè quando va per via,
+Gitta ne' cor villani Amore un gelo,
+Per che ogni lor pensiero agghiaccia e père.
+E qual soffrisse di starla a vedere
+Diverrìa nobil cosa, o si morrìa:
+E quando trova alcun che degno sia
+Di veder lei, quei prova sua virtute,
+Chè gli avvien ciò che gli dona salute,
+E sì l'umilia, che ogni offesa oblia.
+Ancor le ha Dio per maggior grazia dato,
+Che non può mal finir chi le ha parlato.
+Dice di lei Amor: Cosa mortale
+Come esser può sì adorna e sì pura?
+Poi la riguarda, e fra sè stesso giura
+Che Dio ne 'ntende di far cosa nova.
+Color di perla ha quasi in forma, quale
+Conviene a donna aver, non fuor misura;
+Ella è quanto di ben può far natura,
+Per esemplo di lei beltà si prova;
+Degli occhi suoi, come ch'ella gli muova,
+Escono spirti d'amore infiammati,
+Che fieron gli occhi a qual, che allor la guati,
+E passan sì, chè 'l cor ciascun ritrova.
+Voi le vedete Amor pinto nel riso,
+Là 've non puote alcun mirarla fiso.
+Canzone, io so che tu girai parlando
+A donne assai, quando t'avrò avanzata:
+Or t'ammonisco, perch'io t'ho allevata
+Per figliuola d'Amor giovane e piana,
+Che dove giugni, tu dichi pregando:
+Insegnatemi gir; ch'io son mandata
+A quella, di cui loda io sono ornata.
+E, se non vogli andar, sì come vana
+Non ristare ove sia gente villana.
+Ingègnati, se puoi, d'esser palese
+Solo con donna o con uomo cortese,
+Che ti merranno per la via tostana.
+Tu troverai Amor con esso lei;
+Raccomandami a lui come tu dêi.
+Questa Canzone, acciò che sia meglio intesa, la dividerò più artificiosamente che le altre cose di sopra, e però prima ne fo tre parti. La prima parte è proemio delle seguenti parole: la seconda, è lo intento trattato; la terza, è quasi una servigiale delle precedenti parole. La seconda comincia quivi: Angelo chiama; la terza quivi: Canzone, io so. La prima parte si divide in quattro: nella prima, dico a cui dir voglio della mia donna, e perchè io voglio dire; nella seconda, dico che mi pare a me stesso quand'io penso lo suo valore, e come io direi se non perdessi l'ardimento; nella terza, dico come credo dire di lei, acciò che io non sia impedito da viltà; nella quarta, ridicendo ancora a cui intendo di dire, dico la ragione per che dico a loro. La seconda comincia quivi: Io dico; la terza quivi: Ed io non vo' parlar; la quarta quivi: Donne e donzelle. Poi quando dico: Angelo chiama, comincio a trattare di questa donna; e dividesi questa parte in due. Nella prima, dico che di lei si comprende in cielo; nella seconda, dico che di lei si comprende in terra, quivi: Madonna è disiata. Questa seconda parte si divide in due; chè nella prima dico di lei quanto dalla parte della nobiltà della sua anima, narrando alquante delle sue virtudi effettive, che dalla sua anima procedeano: nella seconda, dico di lei quanto dalla parte della nobiltà del suo corpo, narrando alquante delle sue bellezze, quivi: Dice di lei Amor. Questa seconda parte si divide in due, chè nella prima, dico d'alquante bellezze, che sono secondo tutta la persona; nella seconda dico d'alquante bellezze, che sono secondo determinata parte della persona, quivi: Degli occhi suoi. Questa seconda parte si divide in due; che nell'una dico degli occhi, che sono principio di Amore; nella seconda, dico della bocca, ch'è fine d'Amore. Ed acciò che quinci si levi ogni vizioso pensiero, ricordisi chi legge, che di sopra è scritto che il saluto di questa donna, lo quale era operazione della sua bocca, fu fine de' miei desiderj, mentre che io lo potei ricevere. Poscia quando dico: Canzone io so, aggiungo una stanza quasi come ancella dell'altre, nella quale dico quello che da questa mia Canzone desidero. E però che quest'ultima parte è lieve ad intendere, non mi travaglio di più divisioni. Dico bene, che a più aprire lo intendimento di questa Canzone si converrebbe usare più minute divisioni; ma tuttavia chi non è di tanto ingegno, che per queste che son fatte la possa intendere, a me non dispiace se la mi lascia stare: chè certo io temo d'avere a troppi comunicato il suo intendimento, pur per queste divisioni che fatte sono, s'egli avvenisse che molti le potessono udire.
+Appresso che questa Canzone fu alquanto divolgata tra le genti, conciofossecosa che alcuno amico l'udisse, volontà lo mosse a pregarmi ch'io gli dovessi dire che è Amore, avendo forse, per le udite parole, speranza di me oltre che degna. Ond'io pensando che appresso di cotal trattato, bello era trattare alcuna cosa d'Amore, e pensando che l'amico era da servire, proposi di dire parole, nelle quali io trattassi d'Amore; e dissi allora questo Sonetto:
+Amore e 'l cor gentil sono una cosa,
+Sì come 'l Saggio in suo dittato pone;
+E così esser l'un sanza l'altro osa,
+Com'alma razional sanza ragione.
+Fagli Natura, quando è amorosa,
+Amor per sire, e 'l cor per sua magione,
+Dentro allo qual dormendo si riposa
+Tal volta brieve, e tal lunga stagione.
+Beltate appare in saggia donna pui,
+Che piace agli occhi sì, che dentro al core
+Nasce un disio della cosa piacente:
+E tanto dura talora in costui,
+Che fa svegliar lo Spirito d'amore:
+E simil face in donna uomo valente.
+Questo Sonetto si divide in due parti. Nella prima, dico di lui in quanto è in potenza; nella seconda, dico di lui in quanto di potenza si riduce in atto. La seconda, comincia quivi: Beltate appare. La prima si divide in due: nella prima, dico in che soggetto sia questa potenza; nella seconda, dico come questo soggetto e questa potenza sieno prodotti insieme in essere, e come l'uno guarda l'altra, come forma materia. La seconda comincia quivi: Fagli natura. Poi quando dico: Beltate appare, dico come questa potenza si riduce in atto; e prima, come si riduce in uomo: poi, come si riduce in donna, quivi: E simil face in donna.
+Poscia che io trattai d'Amore nella sopradetta rima, vennemi volontà di voler dire anche in loda di questa gentilissima parole, per le quali io mostrassi come si sveglia per lei quest'amore, e come non solamente si sveglia là ove dorme, ma là ove non è in potenza, ella mirabilmente operando il fa venire. E dissi allora questo Sonetto:
+Negli occhi porta la mia donna Amore,
+Per che si fa gentil ciò ch'ella mira:
+Ov'ella passa, ogni uom vêr lei si gira,
+E cui saluta fa tremar lo core:
+Sì che, bassando il viso, tutto smuore,
+E d'ogni suo difetto allor sospira:
+Fugge dinanzi a lei superbia ed ira:
+Aiutatemi, donne, a farle onore.
+Ogni dolcezza, ogni pensiero umìle
+Nasce nel core a chi parlar la sente;
+Ond'è laudato chi prima la vide.
+Quel ch'ella par quand'un poco sorride
+Non si può dicer nè tener a mente,
+Sì è novo miracolo gentile.
+Questo Sonetto ha tre parti. Nella prima, dico siccome questa donna riduce in atto questa potenza, secondo la nobilissima parte degli occhi suoi: e nella terza, dico questo medesimo, secondo la nobilissima parte della sua bocca. E intra queste due parti ha una particella, ch'è quasi domandatrice d'aiuto alla precedente parte ed alla seguente, e comincia quivi: Aiutatemi, donne. La terza comincia quivi: Ogni dolcezza. La prima si divide in tre; chè nella prima, dico come virtuosamente fa gentile ciò ch'ella vede; e questo è tanto a dire, quanto inducere Amore in potenza là ove non è. Nella seconda, dico come riduce in atto Amore ne' cuori di tutti coloro cui vede. Nella terza, dico quello che poi virtuosamente adopera ne' lor cuori. La seconda comincia: Ov'ella passa; la terza: E cui saluta. Quando poscia dico: Aiutatemi, donne, do ad intendere a cui la mia intenzione è di parlare, chiamando le donne che m'aiutino ad onorare costei. Poi quando dico: Ogni dolcezza, dico quel medesimo ch'è detto nella prima parte, secondo due atti della sua bocca: uno de' quali è il suo dolcissimo parlare, e l'altro lo suo mirabile riso; salvo che non dico di questo ultimo come adoperi ne' cuori altrui, perchè la memoria non puote ritener lui, nè sue operazioni.
+Appresso questo non molti dì passati, sì come piacque al glorioso Sire, lo quale non negò la morte a sè, colui ch'era stato genitore di tanta maraviglia, quanta si vedeva ch'era questa nobilissima Beatrice, di questa vita uscendo, se ne gìo alla gloria eternale veracemente. Onde, conciossia che cotale partire sia doloroso a coloro che rimangono, e sono stati amici di colui che se ne va; e nulla sia così intima amistà, come quella da buon padre a buon figliuolo e da buon figliuolo a buon padre; e questa donna fosse in altissimo grado di bontade, e lo suo padre, siccome da molti si crede, e vero è, fosse buono in alto grado; manifesto è, che questa donna fu amarissimamente piena di dolore. E conciossiacosa che, secondo è l'usanza della sopradetta cittade, donne con donne e uomini con uomini si adunino a cotale tristizia, molte donne s'adunaro colà, ove questa Beatrice piangea pietosamente: ond'io veggendo ritornare alquante donne da lei, udii lor dire parole di questa gentilissima com'ella si lamentava. Tra le quali parole udi' che diceano: «Certo ella piange sì, che qual la mirasse dovrebbe morire di pietade». Allora trapassarono queste donne; ed io rimasi in tanta tristizia, che alcuna lagrima talor bagnava la mia faccia, ond'io mi ricoprìa con porre le mani spesso agli miei occhi. E se non fosse ch'io attendea anche udire di lei, però che io era in luogo onde ne gìano la maggior parte di quelle donne che da lei si partiano, io mi sarei nascoso incontanente che le lagrime m'aveano assalito. E però dimorando ancora nel medesimo luogo, donne anche passarono presso di me, le quali andavano ragionando e dicendo tra loro queste parole: «Chi dee mai esser lieta di noi, che avemo udita parlare questa donna così pietosamente?» Appresso costoro passarono altre, che veniano dicendo: «Questi che quivi è, piange nè più nè meno come se l'avesse veduta, come noi avemo». Altre poi diceano di me: «Vedi questo che non pare desso: tal è divenuto». E così passando queste donne, udii parole di lei e di me in questo modo che detto è. Ond'io poi pensando, proposi di dire parole, acciò che degnamente avea cagione di dire, nelle quali io conchiudessi tutto ciò che udito avea da queste donne. E però che volentieri le avrei domandate, se non mi fosse stata riprensione, presi materia di dire, come se io le avessi domandate, ed elle mi avessero risposto. E feci due Sonetti; che nel primo domando in quel modo che voglia mi giunse di domandare; nell'altro, dico la loro risponsione, pigliando ciò ch'io udii da loro, sì come lo m'avessero detto rispondendo. E cominciai il primo: Voi, che portate; il secondo: Se' tu colui.
+Voi, che portate la sembianza umìle,
+Cogli occhi bassi mostrando dolore,
+Onde venite, chè 'l vostro colore
+Par divenuto di pietà simìle?
+Vedeste voi nostra donna gentile
+Bagnar nel viso suo di pianto Amore?
+Ditelmi, donne, chè mel dice il core,
+Perch'io vi veggio andar senz'atto vile.
+E se venite da tanta pietate,
+Piacciavi di ristar qui meco alquanto,
+E che che sia di lei, nol mi celate.
+Io veggio gli occhi vostri c'hanno pianto,
+E veggiovi venir sì sfigurate.
+Che 'l cor mi trema di vederne tanto.
+Questo Sonetto si divide in due parti. Nella prima, chiamo e dimando queste donne se vengono da lei, dicendo loro ch'io il credo, perchè tornano quasi ingentilite. Nella seconda, le prego che mi dicano di lei; e la seconda comincia quivi: E se venite.
+Se' tu colui c'hai trattato sovente
+Di nostra donna, sol parlando a nui?
+Tu rassomigli alla voce ben lui,
+Ma la figura ne par d'altra gente.
+Deh! perchè piangi tu sì coralmente,
+Che fai di te pietà venir altrui?
+Vedustù pianger lei, chè tu non pui
+Punto celar la dolorosa mente?
+Lascia pianger a noi, e triste andare!
+E' fa peccato chi mai ne conforta,
+Chè nel suo pianto l'udimmo parlare.
+Ella ha nel viso la pietà sì scorta,
+Che qual l'avesse voluta mirare,
+Sarebbe innanzi a lei piangendo morta.
+Questo Sonetto ha quattro parti, secondo che quattro modi di parlare ebbero in loro le donne per cui rispondo. E però che di sopra sono assai manifesti, non m'intrametto di narrare la sentenzia delle parti, e però le distinguo solamente. La seconda comincia quivi: Deh! perchè piangi tu; la terza: Lascia piangere a noi; la quarta; Ella ha nel viso.
+Appresso ciò per pochi dì, avvenne che in alcuna parte della mia persona mi giunse una dolorosa infermitade, ond'io continuamente soffersi per nove dì amarissima pena; la quale mi condusse a tanta debolezza, che mi convenia stare come coloro, i quali non si possono movere. Io dico che nel nono giorno sentendomi dolore quasi intollerabilemente, a me giunse uno pensiero, il quale era della mia donna. E quando ebbi pensato alquanto di lei, e io ritornai pensando alla mia deboletta vita; e veggendo come leggiero era lo suo durare, ancora che sana fosse, cominciai a piangere fra me stesso di tanta miseria. Onde sospirando forte, fra me medesimo dicea: «Di necessità conviene che la gentilissima Beatrice alcuna volta si muoia». E però mi giunse uno sì forte smarrimento, ch'io chiusi gli occhi, e cominciai a travagliare come farnetica persona, e ad imaginare in questo modo: che nel cominciamento dell'errare che fece la mia fantasia, apparvero a me certi visi di donne scapigliate, che mi diceano: «Tu pur morrai». E poi, dopo queste donne, m'apparvero certi visi diversi ed orribili a vedere, i quali mi diceano: «Tu se' morto». Così cominciando ad errare la mia fantasia, venni a quello, che io non sapea dov'io mi fossi; e veder mi parea donne andare scapigliate piangendo per la via, maravigliosamente triste; e pareami vedere il sole oscurare sì, che le stelle si mostravano d'un colore, che mi facea giudicare che piangessero: e parevami che gli uccelli volando cadessero morti, e che fossero grandissimi terremoti. E maravigliandomi in cotale fantasia, e paventando assai, imaginai alcuno amico che mi venisse a dire: «Or non sai? la tua mirabile donna è partita di questo secolo». Allora incominciai a piangere molto pietosamente; e non solamente piangea nella imaginazione, ma piangea con gli occhi bagnandoli di vere lagrime. Io imaginava di guardare verso il cielo, e pareami vedere moltitudine di angeli, i quali tornassero in suso ed avessero dinanzi da loro una nebuletta bianchissima: e pareami che questi angeli cantassero gloriosamente; e le parole del loro canto mi parea udire che fossero queste: Osanna in excelsis; ed altro non mi parea udire. Allora mi parea che il cuore, ov'era tanto amore, mi dicesse: «Vero e certo è che la donna nostra morta giace». E per questo mi parea andare per vedere lo corpo, nel quale era stata quella nobilissima e beata anima. E fu sì forte la erronea fantasia, che mi mostrò questa donna morta: e pareami che donne la coprissero, cioè la sua testa, con un bianco velo; e pareami che la sua faccia avesse tanto aspetto d'umiltade che parea dicesse: «Io sono a vedere lo principio della pace». In questa imaginazione mi giunse tanta umiltade per veder lei, che io chiamava la Morte, e dicea: «Dolcissima Morte, vieni a me, e non m'esser villana: però che tu dei esser fatta gentile: in tal parte se' stata! or vieni a me che molto ti desidero: tu 'l vedi, ch'io porto già lo tuo colore». E quando io avea veduti compiere tutti i dolorosi mestieri, che alle corpora de' morti s'usano di fare, mi parea tornare nella mia camera, e quivi mi parea guardare verso il cielo; e sì forte era la mia imaginazione, che piangendo cominciai a dire con vera voce: «O anima bellissima, com'è beato colui che ti vede!». E dicendo queste parole con doloroso singulto di pianto, e chiamando la Morte che venisse a me, una donna giovane e gentile, la quale era lungo il mio letto, credendo che il mio piangere e le mie parole fossero lamento per lo dolore della mia infermità, con grande paura cominciò a piangere. Onde altre donne, che per la camera erano, s'accorsero di me che io piangeva per lo pianto che vedeano fare a questa: onde facendo lei partire da me, la quale era meco di propinquissima sanguinità congiunta, elle si trassero verso me per isvegliarmi, credendo che io sognassi, e diceanmi: «Non dormir più, e non ti sconfortare». E parlandomi così, allora cessò la forte fantasia entro quel punto ch'io volea dire: «O Beatrice, benedetta sii tu!». E già detto avea: «O Beatrice», quando riscotendomi apersi gli occhi, e vidi ch'io era ingannato; e con tutto ch'io chiamassi questo nome, la mia voce era sì rotta dal singulto del piangere, che queste donne non mi poterono intendere. Ed avvegna che io mi vergognassi molto, tuttavia per alcuno ammonimento d'amore mi rivolsi loro. E quando mi videro, cominciaro a dire: «Questi par morto»; e a dir fra loro: «Procuriam di confortarlo»; onde molte parole mi diceano da confortarmi, e talora mi domandavano di che io avessi avuto paura. Ond'io essendo alquanto riconfortato, e conosciuto lo fallace imaginare, risposi loro: «Io vi dirò quello che io ho avuto». Allora cominciai dal principio, e fino alla fine dissi loro quello che veduto avea, tacendo il nome di questa gentilissima. Onde io poi, sanato di questa infermità, proposi di dir parole di questo che m'era avvenuto, però che mi parea che fosse amorosa cosa a udire; e dissi questa Canzone:
+Donna pietosa e di novella etate,
+Adorna assai di gentilezze umane,
+Era là ov'io chiamava spesso Morte.
+Veggendo gli occhi miei pien di pietate,
+Ed ascoltando le parole vane,
+Si mosse con paura a pianger forte;
+Ed altre donne, che si furo accorte
+Di me per quella che meco piangìa,
+Fecer lei partir via,
+Ed appressârsi per farmi sentire.
+Qual dicea: Non dormire;
+E qual dicea: Perchè sì ti sconforte?
+Allor lasciai la nova fantasia,
+Chiamando il nome della donna mia.
+Era la voce mia sì dolorosa,
+E rotta sì dall'angoscia del pianto,
+Ch'io solo intesi il nome nel mio core;
+E con tutta la vista vergognosa,
+Ch'era nel viso mio giunta cotanto,
+Mi fece verso lor volgere Amore.
+Egli era tale a veder mio colore,
+Che facea ragionar di morte altrui:
+Deh confortiam costui,
+Pregava l'una l'altra umilemente;
+E dicevan sovente:
+Che vedustù che tu non hai valore?
+E quando un poco confortato fui,
+Io dissi: Donne, dicerollo a vui.
+Mentre io pensava la mia fragil vita,
+E vedea 'l suo durar com'è leggiero,
+Piansemi Amor nel core, ove dimora;
+Perchè l'anima mia fu sì smarrita,
+Che sospirando dicea nel pensiero;
+Ben converrà che la mia donna mora.
+Io presi tanto smarrimento allora,
+Ch'io chiusi gli occhi vilmente gravati;
+E furon sì smagati
+Gli spirti miei, che ciascun giva errando.
+E poscia imaginando,
+Di conoscenza e di verità fuora,
+Visi di donne m'apparver crucciati,
+Che mi dicean pur: Morra'ti, morra'ti.
+Poi vidi cose dubitose molte
+Nel vano imaginare, ov'io entrai;
+Ed esser mi parea non so in qual loco,
+E veder donne andar per via disciolte,
+Qual lacrimando e qual traendo guai,
+Che di tristizia saettavan foco.
+Poi mi parve vedere a poco a poco
+Turbar lo sole ed apparir la stella,
+E pianger egli ed ella;
+Cader gli augelli volando per l'a're,
+E la terra tremare;
+Ed uom m'apparve scolorito e fioco,
+Dicendomi: Che fai? non sai novella?
+Mort'è la donna tua, ch'era sì bella.
+Levava gli occhi miei bagnati in pianti,
+E vedea, che parean pioggia di manna,
+Gli angeli che tornavan suso in cielo:
+Ed una nuvoletta avean davanti,
+Dopo la qual cantavan tutti: Osanna;
+E s'altro avesser detto, a voi dire'lo.
+Allor diceva Amor: Più non ti celo;
+Vieni a veder nostra donna che giace.
+L'imaginar fallace
+Mi condusse a veder mia donna morta;
+E quando l'ebbi scorta,
+Vedea che donne la covrian d'un velo;
+Ed avea seco una umiltà verace,
+Che parea che dicesse: Io sono in pace.
+Io diveniva nel dolor sì umile,
+Veggendo in lei tanta umiltà formata,
+Ch'io dicea: Morte, assai dolce ti tegno:
+Tu dêi omai esser cosa gentile,
+Poi che tu se' nella mia donna stata,
+E dêi aver pietate, e non disdegno.
+Vedi che sì desideroso vegno
+D'esser de' tuoi, ch'io ti somiglio in fede:
+Vieni, chè 'l cor ti chiede.
+Poi mi partìa, consumato ogni duolo;
+E, quando io era solo,
+Dicea, guardando verso l'alto regno:
+Beato, anima bella, chi ti vede!
+Voi mi chiamaste allor, vostra mercede.
+Questa Canzone ha due parti; nella prima, dico parlando a indiffinita persona, com'io fui levato d'una vana fantasia da certe donne, e come promisi loro di dirla: nella seconda, dico com'io dissi a loro. La seconda comincia quivi: Mentr'io pensava. La prima parte si divide in due: nella prima, dico quello che certe donne, e che una sola, dissero e fecero per la mia fantasia, quanto è dinanzi ch'io fossi tornato in verace cognizione; nella seconda, dico quello che queste donne mi dissero, poich'io lasciai questo farneticare; e comincia questa parte quivi: Era la voce mia. Poscia quando dico: Mentr'io pensava, dico com'io dissi loro questa mia imaginazione; e intorno a ciò fo due parti. Nella prima, dico per ordine questa imaginazione; nella seconda, dicendo a che ora mi chiamaro, le ringrazio chiusamente; e questa parte comincia quivi: Voi mi chiamaste.
+Appresso questa vana imaginazione, avvenne un dì, che sedendo io pensoso in alcuna parte, ed io mi sentii cominciare un tremito nel core, così come s'io fossi stato presente a questa donna. Allora dico che mi giunse una imaginazione d'Amore: che mi parve vederlo venire da quella parte ove la mia donna stava; e pareami che lietamente mi dicesse nel cuor mio: «Pensa di benedire lo dì ch'io ti presi, però che tu lo dêi fare». E certo mi parea avere lo core così lieto, che in me non parea che fosse lo core mio, per la sua nova condizione. E poco dopo queste parole che 'l core mi disse con la lingua d'Amore, io vidi venire verso me una gentil donna, la quale era di famosa beltade, e fu già molto donna di questo primo amico mio. E lo nome di questa donna era Giovanna; salvo che per la sua beltade, secondo ch'altri crede, imposto l'era nome di Primavera: e così era chiamata. E appresso lei guardando, vidi venire la mirabile Beatrice. Queste donne andaro presso di me così l'una appresso l'altra, e parvemi che Amore mi parlasse nel core, e dicesse: «Quella prima è nominata Primavera solo per questa venuta d'oggi; chè io mossi lo imponitore del nome a chiamarla così Primavera, cioè prima verrà lo dì che Beatrice si mostrerà dopo l'imaginazione del suo fedele. E se anco vuoli considerare, lo primo nome suo tanto è dire quanto Primavera, perchè lo suo nome Giovanna è da quel Giovanni, lo quale precedette la verace luce, dicendo: Ego vox clamantis in deserto: parate viam Domini». Ed anche mi parve che mi dicesse, dopo queste, altre parole, cioè: «Chi volesse sottilmente considerare, quella Beatrice chiamerebbe Amore, per molta somiglianza che ha meco». Ond'io poi ripensando, proposi di scrivere per rima al primo mio amico, tacendomi certe parole le quali pareano da tacere, credendo io che ancora il suo cuore mirasse la beltà di questa Primavera gentile. E dissi questo Sonetto:
+Io mi sentii svegliar dentro dal core
+Un spirito amoroso che dormìa:
+E poi vidi venir da lungi Amore
+Allegro sì, che appena il conoscìa;
+Dicendo: Or pensa pur di farmi onore;
+E 'n ciascuna parola sua ridìa.
+E, poco stando meco 'l mio signore,
+Guardando in quella parte onde venìa,
+Io vidi monna Vanna e monna Bice
+Venire invêr lo loco là ov'i' era,
+L'una appresso dell'altra maraviglia:
+E sì come la mente mi ridice,
+Amor mi disse: Questa è Primavera,
+E quella ha nome Amor, sì mi somiglia.
+Questo Sonetto ha molte parti: la prima delle quali dice, come io mi sentii svegliare lo tremore usato nel core, e come parve che Amore m'apparisse allegro da lunga parte; la seconda, dice come mi parve che Amore mi dicesse nel mio core, e quale mi parea; la terza dice come, poi che questo fu alquanto stato meco cotale, io vidi ed udii certe cose. La seconda parte comincia quivi: Dicendo: or pensa pur; la terza quivi: E poco stando. La terza parte si divide in due: nella prima, dico quello ch'io vidi; nella seconda, dico quello ch'io udii; e comincia quivi: Amor mi disse.
+Potrebbe qui dubitar persona degna da dichiarargli ogni dubitazione, e dubitar potrebbe di ciò ch'io dico d'Amore, come se fosse una cosa per sè, e non solamente sostanza intelligente, ma sì come fosse sostanza corporale. La qual cosa, secondo verità, è falsa; chè Amore non è per sè siccome sostanza, ma è un accidente in sostanza. E che io dica di lui come fosse corpo, ed ancora come se fosse uomo, appare per tre cose che io dico di lui. Dico che 'l vidi di lungi venire; onde conciossiacosa che il venire dica moto locale, e localmente mobile per sè, secondo il filosofo, sia solamente corpo; appare che io ponga Amore essere corpo. Dico anche di lui che elli ridea, e anche che parlava; le quali cose paiono esser proprie dell'uomo, e specialmente esser risibile; e però appare ch'io ponga lui esser uomo. A cotal cosa dichiarare, secondo ch'è buono al presente, prima è da intendere che anticamente non erano dicitori d'Amore in lingua volgare, anzi erano dicitori d'Amore certi poeti in lingua latina: tra noi, dico, avvegna forse che tra altra gente addivenisse, e avvegna ancora che, siccome in Grecia, non volgari, ma litterati poeti queste cose trattavano. E non è molto numero d'anni passato, che apparirono prima questi poeti volgari; chè dire per rima in volgare tanto è quanto dire per versi in latino, secondo alcuna proporzione. E segno che sia picciol tempo è, che se volemo cercare in lingua d'oco e in lingua di sì, noi non troveremo cose dette anzi lo presente tempo per CL anni. E la cagione per che alquanti grossi ebbero fama di saper dire, è che quasi furono i primi che dissero in lingua di sì. E lo primo che cominciò a dire siccome poeta volgare, si mosse però che volle fare intendere le sue parole a donna, alla quale era malagevole ad intendere i versi latini. E questo è contro a coloro che rimano sopra altra materia che amorosa; conciossiacosa che cotal modo di parlare fosse dal principio trovato per dire d'Amore. Onde, conciossiacosa che a' poeti sia conceduta maggior licenza di parlare che alli prosaici dittatori, e questi dicitori per rima non sieno altro che poeti volgari, è degno e ragionevole che a loro sia maggior licenza largita di parlare, che agli altri parlatori volgari: onde, se alcuna figura o colore retorico è conceduto alli poeti, conceduto è a' rimatori. Dunque, se noi vedemo che gli poeti hanno parlato alle cose inanimate come se avessero senso e ragione, e fattele parlare insieme; e non solamente cose vere, ma cose non vere; cioè che detto hanno, di cose le quali non sono, che parlano, e detto che molti accidenti parlano, siccome fossero sostanze e uomini; degno è lo dicitore per rima fare lo simigliante, non senza ragione alcuna, ma con ragione, la quale poi sia possibile d'aprire per prosa. Che li poeti abbiano così parlato come detto è, appare per Virgilio; il quale dice che Giuno, cioè una dea nemica dei Troiani, parlò ad Eolo signore delli venti, quivi nel primo dell'Eneida: Æole, namque tibi, e che questo signore rispose, quivi: Tuus, o regina, quid optes. Per questo medesimo poeta parla la cosa che non è animata alle cose animate, nel terzo dell'Eneida, quivi: Dardanidæ duri. Per Lucano parla la cosa animata alla cosa inanimata, quivi: Multum, Roma, tamen debes civilibus armis. Per Orazio parla l'uomo alla sua scienza medesima, siccome ad altra persona; e non solamente sono parole di Orazio, ma dicele quasi recitando lo modo del buono Omero, quivi nella sua Poetria; Dic mihi, Musa, virum. Per Ovidio parla Amore, come se fosse persona umana, nel principio del libro c'ha nome Rimedio d'Amore, quivi: Bella mihi, video, bella parantur, ait. E per questo puote essere manifesto a chi dubita in alcuna parte di questo mio libello. E acciò che non ne pigli alcuna baldanza persona grossa, dico che nè li poeti parlano così senza ragione, nè que' che rimano deono così parlare non avendo alcuno ragionamento in loro di quello che dicono, però che grande vergogna sarebbe a colui che compone cose sotto vesta di figura o di colore retorico, e poi domandato non sapesse dinudare le sue parole da cotal vesta, in guisa che avessero verace intendimento. E questo mio primo amico ed io ne sapemo bene di quelli che così rimano stoltamente.
+Questa gentilissima donna, di cui ragionato è nelle precedenti parole, venne in tanta grazia delle genti, che quando passava per via, le persone correano per veder lei; onde mirabile letizia me ne giungea. E quando ella fosse presso ad alcuno, tanta onestà venìa nel core di quello, ch'egli non ardìa di levare gli occhi, nè di rispondere al suo saluto; e di questo molti, siccome esperti, mi potrebbono testimoniare a chi nol credesse. Ella coronata e vestita di umiltà s'andava, nulla gloria mostrando di ciò ch'ella vedeva ed udiva. Dicevano molti, poi che passata era: «Questa non è femina, anzi è uno de' bellissimi angeli di cielo». E altri diceano: «Questa è una meraviglia; che benedetto sia lo Signore che sì mirabilmente sa operare!» Io dico ch'ella si mostrava sì gentile e sì piena di tutti i piaceri, che quelli che la miravano comprendevano in loro una dolcezza onesta e soave tanto, che ridire non la sapevano; nè alcuno era lo quale potesse mirar lei, che nel principio non gli convenisse sospirare. Queste e più mirabili cose da lei procedeano mirabilmente e virtuosamente. Ond'io pensando a ciò, volendo ripigliare lo stile della sua loda, proposi di dire parole nelle quali dessi ad intendere delle sue mirabili ed eccellenti operazioni; acciò che non pure coloro che la poteano sensibilmente vedere, ma gli altri sapessono di lei quello che le parole ne possono fare intendere. Allora dissi questo Sonetto:
+Tanto gentile e tanto onesta pare
+La donna mia, quand'ella altrui saluta,
+Ch'ogni lingua divien tremando muta
+E gli occhi non l'ardiscon di guardare.
+Ella sen va, sentendosi laudare,
+Benignamente d'umiltà vestuta;
+E par che sia una cosa venuta
+Di cielo in terra a miracol mostrare.
+Mostrasi sì piacente a chi la mira,
+Che dà per gli occhi una dolcezza al core,
+Che 'ntender non la può chi non la prova.
+E par che della sua labbia si muova
+Un spirito soave pien d'amore,
+Che va dicendo all'anima: sospira.
+Questo Sonetto è si piano ad intendere, per quello che narrato è dinanzi, che non ha bisogno d'alcuna divisione.
+Dico che questa mia donna venne in tanta grazia, che non solamente era ella onorata e laudata, ma per lei erano onorate e laudate molte. Ond'io veggendo ciò, e volendolo manifestare a chi ciò non vedea, proposi anche di dire parole, nelle quali ciò fosse significato: e dissi allora questo altro Sonetto, lo quale narra come la sua virtù adoperava nelle altre.
+Vede perfettamente ogni salute
+Chi la mia donna tra le donne vede:
+Quelle che van con lei sono tenute
+Di bella grazia a Dio render mercede.
+E sua beltate è di tanta virtute,
+Che nulla invidia all'altre ne procede,
+Anzi le face andar seco vestute
+Di gentilezza, d'amore e di fede.
+La vista sua fa ogni cosa umìle,
+E non fa sola sè parer piacente,
+Ma ciascuna per lei riceve onore.
+Ed è negli atti suoi tanto gentile,
+Che nessun la si può recare a mente,
+Che non sospiri in dolcezza d'amore.
+Questo Sonetto ha tre parti; nella prima, dico tra che gente questa donna più mirabile parea; nella seconda, dico come era graziosa la sua compagnia; nella terza, dico di quelle cose ch'ella virtuosamente operava in altrui. La seconda parte comincia quivi: Quelle che van; la terza quivi: E sua beltate. Quest'ultima parte si divide in tre: nella prima, dico quello che operava nelle donne, cioè per loro medesime; nella seconda, dico quello che operava in loro per altrui; nella terza, dico come non solamente nelle donne operava, ma in tutte le persone, e non solamente nella sua presenza, ma ricordandosi di lei, mirabilmente operava. La seconda comincia quivi: La vista; la terza quivi: Ed è negli atti.
+Appresso ciò cominciai a pensare un giorno sopra quello che detto avea della mia donna, cioè in questi due Sonetti precedenti; e veggendo nel mio pensiero ch'io non aveva detto di quello che al presente tempo adoperava in me, pareami difettivamente aver parlato; e però proposi di dire parole, nelle quali io dicessi come mi parea esser disposto alla sua operazione, e come operava in me la sua virtude. E non credendo ciò poter narrare in brevità di Sonetto, cominciai allora una Canzone, la quale comincia:
+Sì lungamente m'ha tenuto Amore,
+E costumato alla sua signoria,
+Che, sì com'egli m'era forte in pria,
+Così mi sta soave ora nel core.
+Però quando mi toglie sì 'l valore,
+Che gli spiriti par che fuggan via,
+Allor sente la frale anima mia
+Tanta dolcezza, che 'l viso ne smuore.
+Poi prende Amore in me tanta virtute,
+Che fa li miei sospiri gir parlando;
+Ed escon fuor chiamando
+La donna mia, per darmi più salute.
+Questo m'avviene ovunque ella mi vede,
+E sì è cosa umìl, che non si crede.
+Quomodo sedet sola civitas plena populo! facta est quasi vidua domina gentium. Io era nel proponimento ancora di questa Canzone, e compiuta n'avea questa sovrascritta stanza, quando lo Signore della giustizia chiamò questa gentilissima a gloriare sotto la insegna di quella reina benedetta, Virgo Maria, lo cui nome fue in grandissima reverenza nelle parole di questa Beatrice beata. Ed avvegna che forse piacerebbe al presente trattare alquanto della sua partita da noi, non è mio intendimento di trattarne qui per tre ragioni: la prima si è, che ciò non è del presente proposito, se volemo guardare nel proemio, che precede questo libello; la seconda si è, che, posto che fosse del presente proposito, ancora non sarebbe sufficiente la mia lingua a trattare, come si converrebbe, di ciò; la terza si è, che, posto che fosse l'uno e l'altro, non è convenevole a me trattare di ciò, per quello che, trattando, converrebbe me essere laudatore di me medesimo, la qual cosa è al postutto biasimevole a chi 'l fa; e però lascio cotale trattato ad altro chiosatore. Tuttavia, perchè molte volte il numero del nove ha preso luogo tra le parole dinanzi, onde pare che sia non senza ragione, e nella sua partita cotale numero pare che avesse molto luogo, conviensi qui dire alcuna cosa, acciò che pare al proposito convenirsi. Onde prima dirò come ebbe luogo nella sua partita, e poi ne assegnerò alcuna ragione, perchè questo numero fu a lei cotanto amico.
+Io dico che, secondo l'usanza d'Italia, l'anima sua nobilissima si partì nella prima ora del nono giorno del mese; e secondo l'usanza di Sorìa, ella si partì nel nono mese dell'anno; perchè il primo mese è ivi Tisrin, il quale a noi è Ottobre. E secondo l'usanza nostra, ella si partì in quello anno della nostra indizione, cioè degli anni Domini, in cui il perfetto numero nove volte era compiuto in quel centinajo, nel quale in questo mondo ella fu posta: ed ella fu de' cristiani del terzodecimo centinajo. Perchè questo numero fu tanto amico di lei, questa potrebb'essere una ragione: conciossiacosa che, secondo Tolomeo, e secondo la cristiana verità, nove siano li cieli che si movono, e secondo comune opinione astrologica li detti cieli adoperino quaggiù secondo la loro abitudine insieme, questo numero fu amico di lei per dare ad intendere che nella sua generazione tutti e nove li mobili cieli perfettissimamente s'aveano insieme. Questa è una ragione di ciò; ma più sottilmente pensando, e secondo la infallibile verità, questo numero fu ella medesima; per similitudine dico, e ciò intendo così: Lo numero del tre è la radice del nove, però che senz'altro numero, per sè medesimo moltiplicato, fa nove, sì come vedemo manifestamente che tre via tre fa nove. Dunque, se il tre è fattore per sè medesimo del nove, e lo fattore dei miracoli per sè medesimo è tre, cioè Padre, Figliuolo e Spirito santo, li quali sono tre ed uno, questa donna fu accompagnata da questo numero del nove a dare ad intendere che ella era un nove, cioè un miracolo, la cui radice è solamente la mirabile Trinitade. Forse ancora per più sottil persona si vedrebbe in ciò più sottil ragione; ma questa è quella ch'io ne veggio, e che più mi piace.
+Poi che la gentilissima donna fu partita di questo secolo, rimase tutta la sopradetta cittade quasi vedova e dispogliata di ogni dignitade; ond'io, ancora lagrimando in questa desolata cittade, scrissi a' prìncipi della terra alquanto della sua condizione, pigliando quello cominciamento di Geremia profeta: Quomodo sedet sola civitas! E questo dico, acciò che altri non si maravigli perchè io l'abbia allegato di sopra, quasi come entrata della nuova materia, che appresso viene. E se alcuno volesse me riprendere di ciò che non scrivo qui le parole che seguitano a quelle allegate, scusomene, però che lo intendimento mio non fu da principio di scrivere altro che per volgare: onde, conciossiacosa che le parole che seguitano a quelle che sono allegate, sieno tutte latine, sarebbe fuori del mio intendimento se io le scrivessi: e simile intenzione so che ebbe questo mio primo amico, a cui ciò scrivo, cioè ch'io gli scrivessi solamente in volgare.
+Poi che gli occhi miei ebbero per alquanto tempo lagrimato, e tanto affaticati erano ch'io non potea disfogare la mia tristizia, pensai di volerla disfogare con alquante parole dolorose; e però proposi di fare una Canzone, nella quale piangendo ragionassi di lei, per cui tanto dolore era fatto distruggitore dell'anima mia; e cominciai allora: Gli occhi dolenti ec.
+Acciò che questa Canzone paia rimanere più vedova dopo il suo fine, la dividerò prima ch'io la scriva: e cotal modo terrò da qui innanzi. Io dico che questa cattivella Canzone ha tre parti: la prima, è proemio; nella seconda, ragiono di lei; nella terza, parlo alla Canzone pietosamente. La seconda comincia quivi: Ita n'è Beatrice; la terza quivi: Pietosa mia Canzone. La prima parte si divide in tre: nella prima, dico per che mi muovo a dire; nella seconda, dico a cui voglio dire; nella terza, dico di cui voglio dire. La seconda comincia quivi: E perchè mi ricorda; la terza quivi: E dicerò. Poscia quando dico: Ita n'è Beatrice, ragiono di lei, e intorno a ciò fo due parti. Prima, dico la cagione perchè tolta ne fu; appresso, dico come altri si piange della sua partita, e comincia questa parte quivi: Partissi della sua. Questa parte si divide in tre: nella prima, dico chi non la piange; nella seconda, dico chi la piange; nella terza, dico della mia condizione. La seconda comincia quivi: Ma vien tristizia e doglia; la terza; Dannomi angoscia. Poscia quando dico: Pietosa mia Canzone, parlo a questa mia Canzone, designandole a quali donne sen vada, e steasi con loro.
+Gli occhi dolenti per pietà del core
+Hanno di lagrimar sofferta pena,
+Sì che per vinti son rimasi omai.
+Ora s'io voglio sfogar lo dolore,
+Che a poco a poco alla morte mi mena,
+Convenemi parlar traendo guai.
+E perchè mi ricorda ch'io parlai
+Della mia donna, mentre che vivìa,
+Donne gentili, volentier con vui
+Non vo' parlare altrui,
+Se non a cor gentil che 'n donna sia;
+E dicerò di lei piangendo, pui
+Che se n'è gita in ciel subitamente,
+Ed ha lasciato Amor meco dolente.
+Ita n'è Beatrice in alto cielo,
+Nel reame ove gli angeli hanno pace,
+E sta con loro; e voi, donne, ha lasciate.
+Non la ci tolse qualità di gelo,
+Nè di calor, sì come l'altre face;
+Ma sola fu sua gran benignitate:
+Chè luce della sua umilitate
+Passò li cieli con tanta virtute,
+Che fe' maravigliar l'eterno Sire,
+Sì che dolce disire
+Lo giunse di chiamar tanta salute,
+E fêlla di quaggiuso a sè venire;
+Perchè vedea ch'esta vita noiosa
+Non era degna di sì gentil cosa.
+Partissi della sua bella persona
+Piena di grazia l'anima gentile,
+Ed èssi glorïosa in loco degno.
+Chi non la piange quando ne ragiona,
+Core ha di pietra sì malvagio e vile,
+Ch'entrar non vi può spirito benegno.
+Non è di cor villan sì alto ingegno,
+Che possa imaginar di lei alquanto,
+E però non gli vien di pianger voglia:
+Ma vien tristizia e doglia
+Di sospirare e di morir di pianto;
+E d'ogni consolar l'anima spoglia
+Chi vede nel pensiero alcuna volta
+Qual ella fu, e com'ella n'è tolta.
+Dannomi angoscia li sospiri forte.
+Quando il pensiero nella mente grave
+Mi reca quella che m'ha il cor diviso:
+E spesse fiate pensando alla morte,
+Me ne viene un disìo tanto soave,
+Che mi tramuta lo color nel viso;
+E quando 'l 'maginar mi tien ben fiso,
+Giugnemi tanta pena d'ogni parte,
+Ch'i' mi riscuoto per dolor ch'i' sento;
+E sì fatto divento,
+Che dalle genti vergogna mi parte.
+Poscia piangendo, sol nel mio lamento
+Chiamo Beatrice; e dico: Or se' tu morta!
+E mentre ch'io la chiamo, mi conforta.
+Pianger di doglia e sospirar d'angoscia
+Mi strugge il core ovunque sol mi trovo,
+Sì che ne increscerebbe a chi 'l vedesse:
+E qual è stata la mia vita, poscia
+Che la mia donna andò nel secol novo,
+Lingua non è che dicer lo sapesse:
+E però, donne mie, per ch'io volesse,
+Non vi saprei ben dicer quel ch'io sono,
+Sì mi fa travagliar l'acerba vita:
+La quale è sì invilita,
+Che ogn'uom par che mi dica: Io t'abbandono,
+Vedendo la mia labbia tramortita.
+Ma qual ch'io sia, la mia donna sel vede,
+Ed io ne spero ancor da lei mercede.
+Pietosa mia Canzone, or va piangendo;
+E ritrova le donne e le donzelle,
+A cui le tue sorelle
+Erano usate di portar letizia;
+E tu che sei figliuola di tristizia,
+Vattene sconsolata a star con elle.
+Poi che detta fu questa Canzone, sì venne a me uno, il quale secondo li gradi dell'amistade, è amico a me immediatamente dopo il primo: e questi fu tanto distretto di sanguinità con questa gloriosa, che nullo più presso l'era. E poi che fu meco a ragionare, mi pregò che io gli dovessi dire alcuna cosa per una donna che s'era morta; e simulava sue parole, acciò che paresse che dicesse d'un'altra, la quale morta era cortamente: ond'io accorgendomi che questi dicea solo per quella benedetta, dissi di fare ciò che mi domandava lo suo prego. Ond'io poi pensando a ciò, proposi di fare un Sonetto, nel quale mi lamentassi alquanto, e di darlo a questo mio amico, acciò che paresse, che per lui l'avessi fatto; e dissi allora questo Sonetto che comincia: Venite ad intender, ecc.
+Questo Sonetto ha due parti: nella prima chiamo li fedeli d'Amore che m'intendano; nella seconda, narro della mia misera condizione. La seconda comincia quivi: Li quai disconsolati.
+Venite a intender li sospiri miei,
+O cor gentili, che pietà il disìa;
+Li quai disconsolati vanno via,
+E, s'e' non fosser, di dolor morrei;
+Però che gli occhi mi sarebbon rei
+Molte fïate più ch'io non vorrìa,
+Lasso di pianger sì la donna mia,
+Ch'io sfogherei lo cor piangendo lei.
+Voi udirete lor chiamar sovente
+La mia donna gentil, che se n'è gita
+Al secol degno della sua virtute;
+E dispregiar talora questa vita
+In persona dell'anima dolente,
+Abbandonata dalla sua salute.
+Poi che detto ebbi questo Sonetto, pensandomi chi questi era, cui lo intendeva dare quasi come per lui fatto, vidi che povero mi pareva lo servigio e nudo a così distretta persona di questa gloriosa. E però innanzi ch'io gli dessi il soprascritto Sonetto, dissi due stanze di una Canzone; l'una per costui veracemente, e l'altra per me, avvegna che paia l'una e l'altra per una persona detta, a chi non guarda sottilmente. Ma chi sottilmente le mira, vede bene che diverse persone parlano; in ciò che l'una non chiama sua donna costei, e l'altra sì, come appare manifestamente. Questa Canzone e questo Sonetto gli diedi, dicendo io che per lui solo fatto l'avea.
+La Canzone comincia: Quantunque volte, ed ha due parti: nell'una, cioè nella prima stanza, si lamenta questo mio caro amico, distretto a lei; nella seconda, mi lamento io, cioè nell'altra stanza che comincia: E' si raccoglie. E così appare che in questa Canzone si lamentano due persone, l'una delle quali si lamenta come fratello, l'altra come servidore.
+Quantunque volte, lasso! mi rimembra
+Ch'io non debbo giammai
+Veder la donna, ond'io vo sì dolente,
+Tanto dolore intorno al cor m'assembra
+La dolorosa mente,
+Ch'io dico: Anima mia, chè non ten vai?
+Chè li tormenti, che tu porterai
+Nel secol che t'è già tanto noioso,
+Mi fan pensoso di paura forte;
+Ond'io chiamo la Morte,
+Come soave e dolce mio riposo;
+E dico: Vieni a me, con tanto amore,
+Ch'io sono astioso di chiunque muore.
+E' si raccoglie negli miei sospiri
+Un suono di pietate,
+Che va chiamando Morte tuttavia.
+A lei si volser tutti i miei desiri,
+Quando la donna mia
+Fu giunta dalla sua crudelitate:
+Perchè il piacere della sua beltate,
+Partendo sè dalla nostra veduta,
+Divenne spirital bellezza grande,
+Che per lo cielo spande
+Luce d'amor, che gli angeli saluta,
+E lo intelletto loro alto e sottile
+Face maravigliar; tanto è gentile!
+In quel giorno, nel quale si compiva l'anno che questa donna era fatta de' cittadini di vita eterna, io mi sedea in parte, nella quale ricordandomi di lei, disegnava un angelo sopra certe tavolette: e mentre io 'l disegnava, volsi gli occhi e vidi lungo me uomini, a' quali si conveniva di fare onore. E' riguardavano quello ch'io facea, e secondo che mi fu detto poi, egli erano stati già alquanto, anzi che io me n'accorgessi. Quando li vidi, mi levai, e salutando loro dissi: «Altri era testè meco, e perciò pensava». Onde partiti costoro, ritornaimi alla mia opera, cioè del disegnare figure d'angeli. Facendo ciò, mi venne un pensiero di dire parole per rima, quasi per annovale di lei, e scrivere a costoro, li quali erano venuti a me: e dissi allora questo Sonetto, che comincia: Era venuta, lo quale ha due cominciamenti; e però lo dividerò secondo l'uno e l'altro.
+Dico che, secondo il primo, questo Sonetto ha tre parti: nella prima, dico che questa donna era già nella mia memoria; nella seconda, dico quello che Amore però mi facea; nella terza, dico degli effetti d'Amore. La seconda comincia quivi: Amor che; la terza quivi: Piangendo uscivan. Questa parte si divide in due: nell'una, dico che tutti i miei sospiri usciano parlando; nell'altra, dico come alquanti diceano certe parole diverse dagli altri. La seconda comincia quivi: Ma quelli. Per questo medesimo modo si divide secondo l'altro cominciamento, salvo che nella prima parte dico quando questa donna era così venuta nella mia memoria, e ciò non dico nell'altro.
+PRIMO COMINCIAMENTO.
+Era venuta nella mente mia
+La gentil donna, che per suo valore
+Fu posta dall'altissimo Signore
+Nel ciel dell'umiltate, ov'è Maria.
+SECONDO COMINCIAMENTO.
+Era venuta nella mente mia
+Quella donna gentil, cui piange Amore,
+Entro quel punto che lo suo valore
+Vi trasse a riguardar quel ch'io facìa.
+Amor, che nella mente la sentìa,
+S'era svegliato nel distrutto core,
+E diceva a' sospiri: Andate fuore;
+Per che ciascun dolente si partìa.
+Piangendo uscivan fuori del mio petto
+Con una voce, che sovente mena
+Le lagrime dogliose agli occhi tristi.
+Ma quelli, che n'uscian con maggior pena,
+Venìen dicendo: O nobile intelletto,
+Oggi fa l'anno che nel ciel salisti.
+Poi per alquanto tempo, conciofossecosa che io fossi in parte, nella quale mi ricordava del passato tempo, molto stava pensoso, e con dolorosi pensamenti tanto, che mi faceano parere di fuori una vista di terribile sbigottimento. Ond'io, accorgendomi del mio travagliare, levai gli occhi per vedere s'altri mi vedesse. Allora vidi che una gentil donna, giovane e bella molto, da una fenestra mi riguardava molto pietosamente quant'alla vista; sicchè tutta la pietade pareva in lei accolta. Onde, conciossiacosa che quando i miseri veggono di loro compassione altrui, più tosto, si muovono a lagrimare, quasi come di sè stessi avendo pietade, io sentii allora li miei occhi cominciare a voler piangere; e però temendo di non mostrare la mia vile vita, mi partii dinanzi dagli occhi di questa gentile; e dicea fra me medesimo: «E' non può essere, che con quella pietosa donna non sia nobilissimo amore». E però proposi di dire un Sonetto, nel quale io parlassi a lei, e conchiudessi in esso tutto ciò che narrato è in questa ragione. E però che questa ragione è assai manifesta, nol dividerò.
+Videro gli occhi miei quanta pietate
+Era apparita in la vostra figura,
+Quando guardaste gli atti e la statura
+Ch'io faccio pel dolor molte fïate.
+Allor m'accorsi che voi pensavate
+La qualità della mia vita oscura,
+Sicchè mi giunse nello cor paura
+Di dimostrar cogli occhi mia viltate.
+E tolsimi dinanzi a voi, sentendo
+Che si movean le lagrime dal core,
+Ch'era sommosso dalla vostra vista.
+Io dicea poscia nell'anima trista:
+Ben è con quella donna quello Amore,
+Lo qual mi face andar così piangendo.
+Avvenne poi che ovunque questa donna mi vedea, si facea d'una vista pietosa e d'un color pallido, quasi come d'Amore: onde molte fiate mi ricordava della mia nobilissima donna, che di simile colore si mostrava tuttavia. E certo molte volte non potendo lagrimare nè disfogare la mia tristizia, io andava per vedere questa pietosa donna, la quale parea che tirasse le lagrime fuori delli miei occhi per la sua vista. E però mi venne anche volontade di dire parole, parlando a lei; e dissi questo Sonetto che comincia: Color d'Amore, e ch'è piano senza dividerlo per la sua precedente ragione.
+Color d'amore, e di pietà sembianti,
+Non preser mai così mirabilmente
+Viso di donna, per veder sovente
+Occhi gentili e dolorosi pianti,
+Come lo vostro, qualora davanti
+Vedetevi la mia labbia dolente;
+Sì che per voi mi vien cosa alla mente,
+Ch'io temo forte non lo cor si schianti.
+Io non posso tener gli occhi distrutti
+Che non riguardin voi spesse fïate,
+Pel desiderio di pianger ch'egli hanno:
+E voi crescete sì lor volontate,
+Che della voglia si consuman tutti;
+Ma lagrimar dinanzi a voi non sanno.
+
+Io venni a tanto per la vista di questa donna, che li miei occhi si cominciaro a dilettare troppo di vederla; onde molte volte me ne crucciava nel mio cuore, ed aveamene per vile assai; e più volte bestemmiava la vanità degli occhi miei, e dicea loro nel mio pensiero: «Or voi solevate far piangere chi vedea la vostra dolorosa condizione, ed ora pare che vogliate dimenticarlo per questa donna che vi mira, che non mira voi se non in quanto le pesa della gloriosa donna di cui pianger solete; ma quanto far potete, fate; chè io ve la rimembrerò molto spesso, maledetti occhi: chè mai, se non dopo la morte, non dovrebbero le vostre lagrime esser ristate». E quando fra me medesimo così avea detto alli miei occhi, e li sospiri m'assalìano grandissimi ed angosciosi. Ed acciò che questa battaglia, che io avea meco, non rimanesse saputa pur dal misero che la sentìa, proposi di fare un Sonetto, e di comprendere in esso questa orribile condizione, e dissi questo che comincia: L'amaro lagrimar.
+Il sonetto ha due parti: nella prima, parlo agli occhi miei, siccome parlava lo mio core in me medesimo; nella seconda, rimovo alcuna dubitazione, manifestando chi è che così parla; e comincia questa parte quivi: Così dice. Potrebbe bene ancora ricevere più divisioni, ma sariano indarno, però che è manifesto per la precedente ragione.
+L'amaro lagrimar che voi faceste,
+Occhi mïei, così lunga stagione,
+Faceva lagrimar l'altre persone
+Della pietate, come voi vedeste.
+Ora mi par che voi l'obliereste,
+S'io fossi dal mio lato sì fellone,
+Ch'io non ven disturbassi ogni cagione,
+Membrandovi colei, cui voi piangeste.
+La vostra vanità mi fa pensare,
+E spaventami sì, ch'io temo forte
+Del viso d'una donna che vi mira.
+Voi non dovreste mai, se non per morte,
+La nostra donna, ch'è morta, obliare:
+Così dice il mio core, e poi sospira.
+Recommi la vista di questa donna in sì nuova condizione, che molte volte ne pensava come di persona che troppo mi piacesse; e pensava di lei così: «Questa è una donna gentile, bella, giovane e savia, ed apparita forse per volontà d'Amore, acciò che la mia vita si riposi». E molte volte pensava più amorosamente, tanto che il core consentiva in lui, cioè nel suo ragionare. E quando avea consentito ciò, io mi ripensava siccome dalla ragione mosso, e dicea fra me medesimo: «Deh, che pensiero è questo, che in così vile modo mi vuol consolare, e non mi lascia quasi altro pensare!» Poi si rilevava un altro pensiero, e dicea: «Or che tu se' stato in tanta tribulazione d'Amore, perchè non vuo' tu ritrarti da tanta amaritudine? Tu vedi che questo è uno spiramento, che ne reca li desiri d'Amore dinanzi, ed è mosso da così gentil parte, com'è quella degli occhi della donna, che tanto pietosa ti s'è mostrata». Ond'io avendo così più volte combattuto in me medesimo, ancora ne volli dire alquante parole; e però che la battaglia de' pensieri vinceano coloro che per lei parlavano, mi parve che si convenisse di parlare a lei; e dissi questo Sonetto il quale comincia: Gentil pensiero. E dico gentile in quanto ragionava di gentil donna: chè per altro era vilissimo. E fo in questo Sonetto due parti di me, secondo che li miei pensieri erano in due divisi. L'una parte chiamo cuore, cioè l'appetito; l'altra chiamo anima, cioè la ragione; e dico come l'uno dice all'altro. E che degno sia di chiamare l'appetito cuore, e la ragione anima, assai è manifesto a coloro, a cui mi piace che ciò sia aperto. Vero è che nel precedente Sonetto io fo la parte del cuore contro a quella degli occhi, e ciò pare contrario di quel ch'io dico nel presente; e però dico che anche ivi il cuore intendo per l'appetito, però che maggior desiderio era il mio ancora di ricordarmi della gentilissima donna mia, che di vedere costei, avvegna che alcuno appetito ne avessi già, ma leggier parea: onde appare che l'uno detto non è contrario all'altro.
+Questo Sonetto ha tre parti: nella prima, comincio a dire a questa donna come lo mio desiderio si volge tutto verso lei; nella seconda, dico come l'anima, cioè la ragione, dice al cuore, cioè all'appetito; nella terza, dico come le risponde. La seconda parte comincia quivi: L'anima dice; la terza quivi: Ei le risponde.
+Gentil pensiero, che parla di vui,
+Sen viene a dimorar meco sovente,
+E ragiona d'amor sì dolcemente,
+Che face consentir lo core in lui.
+L'anima dice al cor: Chi è costui,
+Che viene a consolar la nostra mente,
+Ed è la sua virtù tanto possente,
+Ch'altro pensier non lascia star con nui?
+Ei le risponde: O anima pensosa,
+Questi è uno spiritel nuovo d'amore,
+Che reca innanzi a me li suoi desiri:
+E la sua vita, e tutto il suo valore,
+Mosse dagli occhi di quella pietosa,
+Che si turbava de' nostri martìri.
+Contra questo avversario della ragione si levò un dì, quasi nell'ora di nona, una forte imaginazione in me, che mi parea vedere questa gloriosa Beatrice, con quelle vestimenta sanguigne, colle quali apparve prima agli occhi miei, e pareami giovane, in simile etade a quella in che prima la vidi. Allora incominciai a pensare di lei; e secondo l'ordine del tempo passato ricordandomene, lo mio core incominciò dolorosamente a pentirsi del desiderio, a cui così vilmente s'avea lasciato possedere alquanti dì contro alla costanza della ragione: e discacciato questo cotal malvagio desiderio, si rivolsero tutti i miei pensamenti alla loro gentilissima Beatrice. E dico che d'allora innanzi cominciai a pensare di lei sì con tutto il vergognoso cuore che li sospiri manifestavano ciò molte volte; però che quasi tutti diceano nel loro uscire quello che nel cuore si ragionava, cioè lo nome di quella gentilissima, e come si partìo da noi. E molte volte avvenìa che tanto dolore avea in sè alcuno pensiero, che io dimenticava lui, e là dov'io era. Per questo raccendimento di sospiri si raccese lo sollevato lagrimare in guisa, che li miei occhi pareano due cose, che desiderassero pur di piangere: e spesso avvenìa che, per lo lungo continuare del pianto, dintorno loro si facea un colore purpureo, quale apparir suole per alcuno martìro che altri riceva: onde appare che della loro vanità furono degnamente guiderdonati, sì che da indi innanzi non poterono mirare persona che li guardasse sì, che loro potesse trarre a simile intendimento. Onde io volendo che cotal desiderio malvagio e vana tentazione paresse destrutto, sì che alcuno dubbio non potessero inducere le rimate parole ch'io avea dette dinanzi, proposi di fare un Sonetto, nel quale io comprendessi la sentenza di questa ragione. E dissi allora: Lasso! per forza ec.; e dissi lasso, in quanto mi vergognava di ciò che gli miei occhi aveano così vaneggiato.
+Questo Sonetto non divido, però che è assai manifesta la sua ragione.
+Lasso! per forza de' molti sospiri,
+Che nascon de' pensier che son nel core,
+Gli occhi son vinti, e non hanno valore
+Di riguardar persona che gli miri.
+E fatti son che paion due disiri
+Di lagrimare e di mostrar dolore,
+E spesse volte piangon sì, ch'Amore
+Gli cerchia di corona di martìri.
+Questi pensieri, e li sospir ch'io gitto,
+Diventan dentro al cor sì angosciosi,
+Ch'Amor vi tramortisce, sì glien duole;
+Però ch'egli hanno in sè li dolorosi
+Quel dolce nome di Madonna scritto,
+E della morte sua molte parole.
+Dopo questa tribulazione avvenne, in quel tempo che molta gente andava per vedere quella imagine benedetta, la quale Gesù Cristo lasciò a noi per esempio della sua bellissima figura, la quale vede la mia donna gloriosamente, che alquanti peregrini passavano per una via, la quale è quasi mezzo della cittade, ove nacque, vivette e morìo la gentilissima donna, e andavano, secondo che mi parve, molto pensosi. Ond'io pensando a loro, dissi fra me medesimo: «Questi peregrini mi paiono di lontana parte, e non credo che anche udissero parlare di questa donna, e non ne sanno niente; anzi i loro pensieri sono d'altre cose che di questa qui; chè forse pensano delli loro amici lontani, li quali noi non conoscemo». Poi dicea fra me medesimo: «Io so che se questi fossero di propinquo paese, in alcuna vista parrebbero turbati, passando per lo mezzo della dolorosa cittade». Poi dicea fra me stesso: «S'io li potessi tenere alquanto, io pur gli farei piangere anzi ch'egli uscissero di questa cittade, però che io direi parole, che farebbero piangere chiunque le intendesse». Onde, passati costoro dalla mia veduta, proposi di fare un Sonetto, nel quale manifestassi ciò ch'io avea detto fra me medesimo; ed acciò che più paresse pietoso, proposi di dire come se io avessi parlato a loro; e dissi questo Sonetto, lo quale comincia; Deh peregrini ec. E dissi peregrini, secondo la larga significazione del vocabolo: chè peregrini si possono intendere in due modi, in uno largo e in uno stretto. In largo, in quanto è peregrino chiunque è fuori della patria sua; in modo stretto, non s'intende peregrino se non chi va verso la casa di santo Jacopo, o riede: e però è da sapere che in tre modi si chiamano propriamente le genti che vanno al servigio dell'Altissimo. Chiamansi palmieri, in quanto vanno oltremare, là onde molte volte recano la palma; chiamansi peregrini, in quanto vanno alla casa di Galizia, però che la sepoltura di santo Jacopo fu più lontana dalla sua patria, che d'alcuno altro apostolo; chiamansi romei, in quanto vanno a Roma, là ove questi ch'io chiamo peregrini, andavano.
+Questo Sonetto non si divide, però ch'assai il manifesta la sua ragione.
+Deh, peregrini, che pensosi andate
+Forse di cosa che non v'è presente,
+Venite voi di sì lontana gente,
+Come alla vista voi ne dimostrate?
+Chè non piangete, quando voi passate
+Per lo suo mezzo la città dolente,
+Come quelle persone, che neente
+Par che 'ntendesser la sua gravitate.
+Se voi restate, per volere udire,
+Certo lo core ne' sospir mi dice,
+Che lagrimando n'uscirete pui.
+Ella ha perduta la sua Beatrice:
+E le parole, ch'uom di lei può dire,
+Hanno virtù di far piangere altrui.
+Poi mandaro due donne gentili a me, pregandomi che mandassi loro di queste mie parole rimate; ond'io pensando la loro nobiltà, proposi di mandar loro, e di fare una cosa nuova, la quale io mandassi loro con esse, acciò che più onorevolmente adempiessi li loro prieghi. E dissi allora un Sonetto, il quale narra il mio stato, e manda'lo loro col precedente Sonetto accompagnato, e con un altro che comincia: Venite a intender ec. Il Sonetto, il quale io feci allora, comincia: Oltre la spera ec.
+Questo Sonetto ha in sè cinque parti: nella prima, dico là ove va il mio pensiero, nominandolo per nome di alcuno suo effetto; nella seconda, dico perchè va lassù, cioè chi 'l fa così andare; nella terza, dico quello che vide, cioè una donna onorata: e chiamolo allora spirito peregrino, acciò che spiritualmente va lassù, e sì come peregrino, lo quale è fuori della sua patria giusta; nella quarta, dico com'egli la vede tale, cioè in tale qualità, ch'io non la posso intendere: cioè a dire, che il mio pensiero sale nella qualità di costei in grado, che il mio intelletto nol può comprendere; conciossiacosa che il nostro intelletto s'abbia a quelle benedette anime, come l'occhio nostro debole al sole: e ciò dice il Filosofo nel secondo della Metafisica; nella quinta, dico che, avvegna che io non possa intendere là ove il pensiero mi trae, cioè alla sua mirabile qualità, almeno intendo questo, cioè che tal è il pensare della mia donna, perchè io sento spesso il suo nome nel mio pensiero. E nel fine di questa quinta parte dico: Donne mie care, a dare ad intendere che son donne coloro a cui parlo. La seconda parte comincia: Intelligenzia nuova; la terza: Quand'egli è giunto; la quarta: Vedela tal; la quinta: So io ch'el parla. Potrebbesi più sottilmente ancora dividere, e più sottilmente intendere, ma puossi passare con questa divisione; e però non mi trametto di più dividerlo.
+
+Oltre la spera, che più larga gira,
+Passa il sospiro ch'esce del mio core;
+Intelligenzia nuova, che l'Amore
+Piangendo mette in lui, pur su lo tira.
+Quand'egli è giunto là, dov'el desira,
+Vede una donna, che riceve onore,
+E luce sì, che per lo suo splendore
+Lo peregrino spirito la mira.
+Vedela tal, che, quando il mi ridice,
+Io non lo 'ntendo, sì parla sottile
+Al cor dolente, che lo fa parlare.
+So io ch'el parla di quella gentile,
+Però che spesso ricorda Beatrice:
+Sì ch'io lo 'ntendo ben, donne mie care.
+Appresso a questo Sonetto apparve a me una mirabil visione, nella quale vidi cose, che mi fecero proporre di non dir più di questa benedetta, infino a tanto che io non potessi più degnamente trattare di lei. E di venire a ciò io studio quanto posso, sì com'ella sa veramente. Sicchè, se piacere sarà di Colui, per cui tutte le cose vivono, che la mia vita duri per alquanti anni, spero di dire di lei quello che mai non fu detto d'alcuna. E poi piaccia a Colui, ch'è Sire della cortesia, che la mia anima se ne possa gire a vedere la gloria della sua donna, cioè di quella benedetta Beatrice, che gloriosamente mira nella faccia di Colui, qui est per omnia saecula benedictus.
+
+
