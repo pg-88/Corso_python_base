@@ -131,7 +131,9 @@ Esempio di un notebook jupyter [Notebook jupyter](./Notebook/random.ipynb).
 [Leggere e scrivere File](./Notebook/leggere_scrivere_file.ipynb)
 [Modulo sys](./Notebook/libreria_sys.ipynb)
 [Modulo os](./Notebook/libreria_os.ipynb)
+[Modulo json](./Notebook/libreria_json.ipynb)
 
+Altra libreria molto ricca di funzionalità che può leggere e manipolare dati da file è [Pandas](./Notebook/pandas_notebook.ipynb)
 
 ### Installazione e uso del package manager PIP
 
