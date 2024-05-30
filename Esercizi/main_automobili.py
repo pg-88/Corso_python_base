@@ -1,4 +1,5 @@
 from datetime import date
+import sys
 
 def giorni_alla_revisione(data_revisione: date) -> int:
     """prende la data in cui va fatta la revisione 
@@ -41,3 +42,7 @@ def costo_viaggio(
 
 def main():
     pass
+
+if __name__ == '__main__':
+    print(sys.argv[0], sys.argv[1])
+    
