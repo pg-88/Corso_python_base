@@ -137,9 +137,11 @@ Altra libreria molto ricca di funzionalità che può leggere e manipolare dati d
 
 ### Installazione e uso del package manager PIP
 
+[pip e venv](https://docs.google.com/presentation/d/1wheheSXbIYSIPIQdIuD75Qu3ANomMn_PWpo8Btgr0aE/edit?usp=sharing)
+
 ### Python come moderno linguaggio di Scripting
 
-
+[Classi e oggetti, Object Oriented](./Notebook/classi_oop.ipynb)
 ## Progetto Automobile
 
-Il file main con il la signature e docstring delle funzioni finora penste è [main_automobili](./Esercizi/main_automobili.py)
+Il file main con il la signature e docstring delle funzioni finora pensate è [main_automobili](./Esercizi/main_automobili.py)
