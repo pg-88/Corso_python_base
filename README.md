@@ -142,6 +142,12 @@ Altra libreria molto ricca di funzionalità che può leggere e manipolare dati d
 ### Python come moderno linguaggio di Scripting
 
 [Classi e oggetti, Object Oriented](./Notebook/classi_oop.ipynb)
+
+[Utilizzare le API](./Notebook/usare_API.ipynb)
+
+[Database sqlite](./Notebook/db_sqlite3.ipynb)
+
+
 ## Progetto Automobile
 
 Il file main con il la signature e docstring delle funzioni finora pensate è [main_automobili](./Esercizi/main_automobili.py)
