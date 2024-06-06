@@ -129,8 +129,11 @@ Esempio di un notebook jupyter [Notebook jupyter](./Notebook/random.ipynb).
 ### Gestione delle stringhe, dei file e dell'input da terminale
 
 [Leggere e scrivere File](./Notebook/leggere_scrivere_file.ipynb)
+
 [Modulo sys](./Notebook/libreria_sys.ipynb)
+
 [Modulo os](./Notebook/libreria_os.ipynb)
+
 [Modulo json](./Notebook/libreria_json.ipynb)
 
 Altra libreria molto ricca di funzionalità che può leggere e manipolare dati da file è [Pandas](./Notebook/pandas_notebook.ipynb)
@@ -143,9 +146,13 @@ Altra libreria molto ricca di funzionalità che può leggere e manipolare dati d
 
 [Classi e oggetti, Object Oriented](./Notebook/classi_oop.ipynb)
 
+[Database sqlite](./Notebook/db_sqlite3.ipynb)
+
+[Introduzione a Pandas](./Notebook/intro_pandas.ipynb)
+
 [Utilizzare le API](./Notebook/usare_API.ipynb)
 
-[Database sqlite](./Notebook/db_sqlite3.ipynb)
+[Creare API](./Notebook/creare_API.ipynb)
 
 
 ## Progetto Automobile
