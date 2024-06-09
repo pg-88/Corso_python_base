@@ -154,6 +154,8 @@ Altra libreria molto ricca di funzionalità che può leggere e manipolare dati d
 
 [Creare API](./Notebook/creare_API.ipynb)
 
+[interfaccie grafiche](./Notebook/gui.ipynb)
+
 
 ## Progetto Automobile
 
