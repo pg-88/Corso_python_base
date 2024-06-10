@@ -154,7 +154,10 @@ Altra libreria molto ricca di funzionalità che può leggere e manipolare dati d
 
 [Creare API](./Notebook/creare_API.ipynb)
 
+[esempio FastAPI](./Esempi/fastapi_main.py) simile a quello fatto a lezione. Da finire e integrare
+
 [interfaccie grafiche](./Notebook/gui.ipynb)
+
 
 
 ## Progetto Automobile
