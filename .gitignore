@@ -1,2 +1,7 @@
 my_venv/*
 .env
+Esempi/.fastAPI/*
+*__init__*
+*.pyc
+*.db
+*.sqlite
